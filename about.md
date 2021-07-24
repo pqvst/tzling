@@ -5,7 +5,7 @@ title: About Me
 
 <img class="about" src="/assets/img/photo.png" />
 
-# Tzuling Huang 黃子玲
+# Tzu-ling Huang 黃子玲
 
 政大日文系/政大韓文系 業餘譯者
 現於消費性電子產業從事業務工作
