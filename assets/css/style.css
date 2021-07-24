@@ -4,7 +4,7 @@ html, body {
 }
 
 body {
-  /*font-family: 'Noto Serif TC', serif;*/
+  font-family: sans-serif;
   color: rgb(51, 51, 51);
   line-height: 1.6;
   font-size: 15pt;
@@ -37,13 +37,27 @@ img {
   max-width: 100%;
 }
 
+h1, h2, h3, h4, h5 {
+  font-weight: 400;
+  text-transform: uppercase;
+}
+
 h1, h2 {
   font-size: 20pt;
 }
 
-h1, h2, h3, h4, h5 {
-  font-weight: 400;
-  text-transform: uppercase;
+h4 {
+  font-weight: 500;
+  font-size: 0.9em;
+  margin-bottom: 0px;
+}
+
+h4 + p {
+  margin-top: 0;
+}
+
+hr {
+  height: 1px;
 }
 
 .wrap {
@@ -179,15 +193,36 @@ img.about {
 }
 
 .post blockquote {
-  background: #f4f4f4;
+  background: #f5f9fa;
   margin: 0;
   padding: 5px 20px;
-  border-left: solid 3px #ddd;
-  font-style: italic;
+  border-left: solid 3px #36a4b0;
 }
 
 .post hr {
   margin: 60px 0;
+}
+
+.post span.light {
+  color: rgb(0,0,0,0.3);
+}
+
+.post .page-nav {
+  display: flex;
+}
+
+.post .page-nav a {
+  text-decoration: underline;
+}
+
+.post .page-nav-next,
+.post .page-nav-prev {
+  flex-basis: 0;
+  flex-grow: 1;
+}
+
+.post .page-nav-next {
+  text-align: right;
 }
 
 
@@ -213,7 +248,9 @@ form button {
   border: none;
   padding: 10px 20px;
   margin-top: 20px;
-  background: #aabbcc
+  background: #36a4b0;
+  color: white;
+  cursor: pointer;
 }
 
 /* ========================= Footer ========================= */
