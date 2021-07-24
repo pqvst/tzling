@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<div class="post">
+  <div class="title">
+    <h1>{{ page.title }}</h1>
+    <p class="details">
+      <span class="date">{{ page.date | date: '%Y-%m-%-d' }}</span>
+      {% for tag in page.tags %}<span class="tag">{{ tag }}</span>{% endfor %}
+    </p>
+  </div>
+  <div class="markdown">
+    {{content}}
+  </div>
+</div>

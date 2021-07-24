@@ -1,0 +1,34 @@
+encoding: UTF-8
+
+url: "https://tzling.com"
+title: Tzu Ling Huang
+description: Tzu Ling huang
+
+theme: null
+
+kramdown:
+  auto_ids: true
+
+permalink: pretty
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-redirect-from
+
+exclude:
+  - .git
+  - .gitignore
+  - package.json
+  - package-lock.json
+  - yarn.lock
+  - node_modules
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+
+defaults:
+  - scope:
+      path: "assets"
+    values:
+      image: true

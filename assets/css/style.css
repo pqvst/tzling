@@ -1,0 +1,263 @@
+
+html, body {
+  height: 100%;
+}
+
+body {
+  /*font-family: 'Noto Serif TC', serif;*/
+  color: rgb(51, 51, 51);
+  line-height: 1.6;
+  font-size: 15pt;
+  font-weight: 300;
+  margin: 0;
+}
+
+@media screen and (max-width: 600px) {
+  body {
+    font-size: 14pt;
+  }
+}
+
+a {
+  color: inherit;
+}
+
+main a {
+  text-decoration: none;
+}
+
+hr {
+  height: 3px;
+  background: #eee;
+  border: none;
+  margin: 30px 0;
+}
+
+img {
+  max-width: 100%;
+}
+
+h1, h2 {
+  font-size: 20pt;
+}
+
+h1, h2, h3, h4, h5 {
+  font-weight: 400;
+  text-transform: uppercase;
+}
+
+.wrap {
+  margin: 0 auto;
+  max-width: 700px;
+  min-height: 100%;
+  overflow-x: auto;
+  padding: 20px;
+  padding-top: 0;
+  overflow: visible;
+}
+
+.banner img {
+  margin-bottom: 30px;
+}
+
+/* ========================= Header ========================= */
+
+nav {
+  font-family: 'Jost', sans-serif;
+  border-top: solid 1px #ccc;
+  border-bottom: solid 1px #ccc;
+  padding: 10px 5px;
+  margin-bottom: 50px;
+  text-align: center;
+  font-weight: 200;
+}
+
+nav a {
+  text-transform: uppercase;
+  text-decoration: none;
+  padding: 10px;
+  letter-spacing: 5px;
+}
+
+nav a:hover {
+  color: #36a4b0;
+}
+
+header {
+  color: #bbb;
+  margin: 20px 0;
+  display: flex;
+  align-items: baseline;
+  line-height: 1.3;
+}
+
+header a.brand {
+  font-weight: 400;
+  color: black;
+  text-transform: uppercase;
+  margin-right: 20px;
+}
+
+header a.brand:hover {
+  border: none;
+}
+
+header a:hover {
+  opacity: 0.8;
+}
+
+header a {
+  color: inherit;
+  text-decoration: none;
+  border-bottom: solid 1px transparent;
+}
+
+header a+a {
+  margin-left: 20px;
+}
+
+header a:hover,
+header a.active {
+  border-bottom: solid 1px #bbb;
+}
+
+
+img.about {
+  border-radius: 50%;
+  width: 70px;
+}
+
+/* ========================= Posts ========================= */
+
+.title {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.title h1, h2 {
+  margin-bottom: 0;
+  line-height: 1.3;
+}
+
+.title a:hover {
+  border-bottom: solid 1px black;
+}
+
+.title .details {
+  margin-top: 3px;
+  color: rgb(0,0,0,0.3);
+  font-size: 0.8em;
+}
+
+.title .tag {
+  margin-left: 5px;
+}
+
+.title .details {
+  margin-top: 5px;
+}
+
+
+/* ========================= Posts ========================= */
+
+.posts .post + .post {
+  margin-top: 50px;
+}
+
+
+/* ========================= Post ========================= */
+
+.post img {
+  border-radius: 8px;
+}
+
+.post img + em {
+  font-size: 0.8em;
+  text-align: center;
+  display: block;
+  margin-top: 5px;
+}
+
+.post blockquote {
+  background: #f4f4f4;
+  margin: 0;
+  padding: 5px 20px;
+  border-left: solid 3px #ddd;
+  font-style: italic;
+}
+
+.post hr {
+  margin: 60px 0;
+}
+
+
+/* ========================= Form ========================= */
+
+form label {
+  margin: 5px 0;
+  display: block;
+}
+
+form input,
+form textarea {
+  display: block;
+  width: 100%;
+  background: #f0f0f0;
+  border: none;
+  border-radius: 4px;
+  padding: 10px;
+}
+
+form button {
+  border-radius: 4px;
+  border: none;
+  padding: 10px 20px;
+  margin-top: 20px;
+  background: #aabbcc
+}
+
+/* ========================= Footer ========================= */
+
+footer {
+  margin-top: 50px;
+  border-top: solid 1px #f6f8fa;
+  text-align: center;
+  padding: 30px;
+}
+
+footer .links {
+  font-size: 2em;
+  color: #a0a0a0;
+}
+  
+footer .links a {
+  color: inherit;
+  text-decoration: none;
+}
+
+footer .links a:hover {
+  color: #666;
+}
+
+footer .links a+a {
+  margin-left: 20px;
+}
+
+footer .fa-envelope {
+  position: relative;
+  top: -1px;
+}
+
+footer .fa-rss {
+  position: relative;
+  top: 2px;
+}
+  
+footer .copyright {
+  margin-top: 10px;
+  font-size: 0.8em;
+}
+
+footer .copyright a {
+  color: inherit;
+}
