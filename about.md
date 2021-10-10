@@ -54,12 +54,4 @@ title: About Me
 
 ## Contact Me! 與我聯絡
 
-<form action="https://getform.io/f/5b19ab07-e111-435d-a240-d36d639254dc" method="POST" class="contact">
-  <label>Name</label>
-  <input type="text" name="name" required>
-  <label>Email</label>
-  <input type="email" name="email" required>
-  <label>Message</label>
-  <textarea name="message" required></textarea>
-  <button type="submit">Send</button>
-</form>
+{% include contact.html %}
