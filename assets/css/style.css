@@ -169,8 +169,19 @@ img.about {
 
 /* ========================= Post ========================= */
 
-.post img {
+.post img,
+.post video {
   border-radius: 8px;
+  max-width: 400px;
+}
+
+@media screen and (max-width: 500px) {
+  .post img {
+    max-width: 100%;
+  }
+  .post video {
+    max-width: 100%;
+  }
 }
 
 .post img + em {
