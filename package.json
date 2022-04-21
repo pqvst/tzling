@@ -6,7 +6,7 @@
   "scripts": {
     "start": "bundle exec jekyll serve --drafts --future",
     "preview": "bundle exec jekyll serve",
-    "resize": "node ./_scripts/resize-images.js"
+    "resize": "shrinkem --size 1600"
   },
   "repository": {
     "type": "git",
@@ -18,7 +18,8 @@
     "url": "https://github.com/pqvst/hello/issues"
   },
   "homepage": "https://github.com/pqvst/hello#readme",
-  "dependencies": {
-    "sharp": "^0.30.3"
+  "dependencies": {},
+  "devDependencies": {
+    "shrinkem": "^1.0.1"
   }
 }
