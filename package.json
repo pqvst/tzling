@@ -18,8 +18,7 @@
     "url": "https://github.com/pqvst/hello/issues"
   },
   "homepage": "https://github.com/pqvst/hello#readme",
-  "dependencies": {},
   "devDependencies": {
-    "shrinkem": "^1.0.1"
+    "shrinkem": "^2.0.1"
   }
 }
