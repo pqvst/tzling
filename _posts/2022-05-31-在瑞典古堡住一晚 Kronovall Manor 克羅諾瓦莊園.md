@@ -118,11 +118,13 @@ P的家人無聊到跑到遠遠的停車場熱車繞圈圈，大家討論著要�
 
 **古堡的餐室**
 這裡的主人似乎很喜歡亞洲風的物件，這裡的壁龕是日本製的
+<br/>
 ![](/assets/img/Kronovall_Manor/IMG_5778.png)
 
 <br/>
 
 從餐室看出去是維護得很細心的莊園花園
+<br/>
 ![](/assets/img/Kronovall_Manor/IMG_5780.png)
 
 ![](/assets/img/Kronovall_Manor/IMG_5845.png)
@@ -132,6 +134,7 @@ P的家人無聊到跑到遠遠的停車場熱車繞圈圈，大家討論著要�
 <br/>
 
 **莊園旁的小池塘**
+<br/>
 ![](/assets/img/Kronovall_Manor/IMG_5813.png)
 
 <br/>
