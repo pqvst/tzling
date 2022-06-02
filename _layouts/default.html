@@ -1,26 +1,18 @@
-<html>
+<html lang="zh-Hant-TW">
   <head>
-    {% if page.title %}
-    <title>{{page.title}} - Tzu-Ling Huang</title>
-    {% else %}
-    <title>Tzu-Ling Huang</title>
-    {% endif %}
-
+    
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <link rel="icon" type="image/svg+xml" href="favicon.svg" />
+    {% seo %}
 
+    <link rel="icon" type="image/svg+xml" href="favicon.svg" />
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Jost:wght@200&display=swap" rel="stylesheet">
-
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Jost:wght@200&display=swap">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/modern-normalize/0.5.0/modern-normalize.min.css">
-
-    <link href="/assets/css/style.css" rel="stylesheet">
-    
-    <link rel="alternate" type="application/atom+xml" title="PQVST" href="/feed.xml" />
+    <link rel="stylesheet" href="/assets/css/style.css">
     
     {% if jekyll.environment == "production" %}
     <script async defer data-website-id="e6dabced-8ec4-4328-9e05-6f6dc46cc144" src="https://umami.pqvst.com/umami.js"></script>
@@ -41,16 +33,14 @@
     </nav>
 
     <div class="wrap">
-      
-      
       <main>{{content}}</main>
-      
     </div>
+
     <footer>
-      
       <div class="copyright">
           Copyright &copy; {{ site.time | date: '%Y' }} 黃子玲 Tzu-Ling Huang 🇹🇼
       </div>
     </footer>
+
   </body>
 </html>
