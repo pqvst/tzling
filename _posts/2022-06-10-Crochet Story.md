@@ -46,7 +46,7 @@ title: 編織記事 Crochet Story
 
 *馬卡龍丸子*
 
-![](/assets/img/crochet/IMG_9128)
+![](/assets/img/Crochet/IMG_9128)
 <br/>
 
 時代變了，現在也不用去買什麼書，Youtube就有了，這時Youtube從善如流的漂來一個手機袋，看起來只要打出一個長方形，再接縫就好，感覺完全能夠駕馭。
@@ -100,7 +100,7 @@ title: 編織記事 Crochet Story
 *在做第一個手機包時，打著打著應該是長條型的圖樣卻變成了一個圓環*
 <br/>
 
-![](/assets/img/crochet/IMG_9163)
+![](/assets/img/Crochet/IMG_9163)
 
 <br/>
 
@@ -134,7 +134,7 @@ title: 編織記事 Crochet Story
 *我那無法對齊的第一個成品*
 <br/>
 
-![](/assets/img/crochet/IMG_9489.jpg)
+![](/assets/img/Crochet/IMG_9489.jpg)
 
 
 在中途幫手機包換色時，我又學到一個非常重要的一課：本質不相容的線，即使打出一樣多的結，大小也會不同，這也就是在追求自由的過程中，最後要自己承擔的後果——它可以是一個手機包，依然有它的功能，只是歪了。
@@ -147,7 +147,7 @@ title: 編織記事 Crochet Story
 
 <br/>
 
-![](/assets/img/crochet/IMG_1464.jpg)
+![](/assets/img/Crochet/IMG_1464.jpg)
 
 
 <br/>
@@ -170,7 +170,7 @@ title: 編織記事 Crochet Story
 **但老實說，再來一次我還是會用同一捲毛線起織，顏色實在太美了**
 <br/>
 
-![](/assets/img/crochet/IMG_0813.jpg)
+![](/assets/img/Crochet/IMG_0813.jpg)
 
 
 <br/>
