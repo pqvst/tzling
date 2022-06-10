@@ -45,7 +45,9 @@ title: 編織記事 Crochet Story
 <br/>
 
 *馬卡龍丸子*
-![](/assets/img/crochet/IMG_9128(1).jpg)
+
+![](/assets/img/crochet/IMG_9128)
+<br/>
 
 時代變了，現在也不用去買什麼書，Youtube就有了，這時Youtube從善如流的漂來一個手機袋，看起來只要打出一個長方形，再接縫就好，感覺完全能夠駕馭。
 <br/>
@@ -55,7 +57,8 @@ title: 編織記事 Crochet Story
 <br/>
 
 
-> *手機袋教學影片* <br/> <iframe width="560" height="315" src="https://www.youtube.com/embed/Jgq15EWborY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> *手機袋教學影片* 
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/Jgq15EWborY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br/>
 
@@ -97,7 +100,7 @@ title: 編織記事 Crochet Story
 *在做第一個手機包時，打著打著應該是長條型的圖樣卻變成了一個圓環*
 <br/>
 
-![](/assets/img/crochet/IMG_9163(1).jpg)
+![](/assets/img/crochet/IMG_9163)
 
 <br/>
 
