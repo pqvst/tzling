@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [韓中翻譯策略] 돌직구 中文意思/挖苦
+title: 韓中翻譯策略—돌직구 中文意思
 ---
 
 **돌직구**=돌(石)+직구(直球)，毫無掩飾的真話、實話直說的意思，英文解釋為A straightforward comment。
