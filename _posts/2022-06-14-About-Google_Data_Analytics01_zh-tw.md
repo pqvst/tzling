@@ -6,20 +6,21 @@ title: Google Data Analytics 值不值得上——上半場回顧 (Course1-4)
 這篇貼文主要內容是分享Google Data Analytics/Google數據分析課的前四堂課的心得，內容包含上課心得和課程形式的分享。
 
 
-如果你只有兩分鐘，可以只看下面這段結論**Google數據分析課值不值得上**，如果你只想快速看這堂課會怎麼進行，可以點擊跳到**[Google Data Analytics 課程形式介紹](#課程形式介紹)**。
+如果你只有兩分鐘，可以只看下面這段結論**Google數據分析課值不值得上**，如果你只想快速看這堂課會怎麼進行，可以點擊跳到 **[Google Data Analytics 課程形式介紹](#google-data-analytics-課堂形式介紹)**，其他不摻水的個人心得[點這裡](#其他有的沒的)。
 
 <br/>
 
 ## 結論——這堂課值不值得上：
 (點擊下方的每個評分項目可以跳到完整說明)
 
-### ●綜合推薦度(針對有實務經驗、無數據分析背景的人)：5/5 
-### ●上課自由度：4/5 
-### ●課程靈活度：5/5
-### ●課程難度：3/5
-### ●課程實用度：?/5
-### ●英文難度：4/5 
-### ●費用：4/5
+#### [●綜合推薦度：5/5](#綜合推薦度-55)
+(針對有實務經驗、無數據分析背景的人)
+#### [●上課自由度：4/5](#上課自由度-45) 
+#### [●課程靈活度：5/5](#課程靈活度-55)
+#### [●課程難度：3/5](#課程難度-35)
+#### [●課程實用度：?/5](#課程實用度-5)
+#### [●英文難度：4/5](#英文難度-45) 
+#### [●費用：4/5](#費用-45)
 
 <br/>
 
@@ -38,21 +39,21 @@ title: Google Data Analytics 值不值得上——上半場回顧 (Course1-4)
 ●Analyze Data to Answer Questions <br/>
 ●Share Data Through the Art of Visualization<br/>
 ●Data Analysis with R Programming<br/>
-●Google Data Analytics Capstone: Complete a Case ●Study<br/>
+●Google Data Analytics Capstone: Complete a Case Study<br/>
 
+課程設計的邏輯也很清楚，是一堂基礎課，以及按照數據分析流程Ask、Prepare、Process、Analyze、Share分別設計的五堂課，另外追加數據分析語言R，以及一堂實用課Case Study。
 
 <br/>
 
 上完全部八堂課可以取得**Google Data Analytics Professional Certificate/Google 數據分析師證照**，Google表示這有助於尋找數據分析師的工作，這部分我沒有辦法判斷，但光從課程內容來看，我覺得對我平常的業務、市場管理工作有很好的專業補強效果。
 
 <br/>
-—
+
+---
 
 ## 如果還有時間，下面是更多細節的心得分享：
 
 
-<br/>
-<a name="綜合"></a>
 
 ### ●綜合推薦度— 5/5 
 (針對有實務經驗、無數據分析背景的人)：
@@ -87,7 +88,7 @@ Google Data Analytic 既然是強調「數據分析」的課程，在編寫這�
 另外是每週的課程都會平均穿插影片、習題、演練題、小操作遊戲、確保你不無聊。
 
 
-*複習小遊戲*
+*複習小遊戲* <br/>
 ![](/assets/img/Data/Practice.act.PNG)
 
 <br/>
@@ -102,8 +103,8 @@ Google Data Analytic 既然是強調「數據分析」的課程，在編寫這�
 
 不過這方面的問題Google必然也有放在心上，在每次提到一些沒辦法在課上繼續深入的概念時就會引用其他網站的解說內容，讓你回家慢慢看。我自己覺得這是一個很好的做法，畢竟就新手而言，有時候甚至不知道用什麼關鍵字找到延伸閱讀的資料，這有點像大學教授丟給你看的指參。
 
->在介紹清理資料時，引用的是Microsoft的資料 
-![Top10 ways to clean your data](https://support.microsoft.com/en-us/office/top-ten-ways-to-clean-your-data-2844b620-677c-47a7-ac3e-c2e157d1db19)
+>在介紹清理資料時，引用的是Microsoft的資料
+[Top10 ways to clean your data](https://support.microsoft.com/en-us/office/top-ten-ways-to-clean-your-data-2844b620-677c-47a7-ac3e-c2e157d1db19)
 
 <br/>
 
@@ -143,6 +144,7 @@ I think this is a valuable addition to the ecosystem and has the potential to be
 
 <br/>
 
+---
 
 
 ## Google Data Analytics 課堂形式介紹 
@@ -151,6 +153,7 @@ I think this is a valuable addition to the ecosystem and has the potential to be
 ### 課程大綱
 
 ![](/assets/img/Data/schedule2.PNG)
+<br/>
 
 如上面提到的，Google設計了一個進度條，課程之初就可以先查閱課程大綱，每個課程活動完成後就會打勾起來。每一小節會有小測驗，習題沒有通過不一定會影響下一節課程，但會影響評量成績，且只要有一個課堂測驗沒有過就不會核發該堂課的證照。
 
@@ -163,13 +166,15 @@ I think this is a valuable addition to the ecosystem and has the potential to be
 
 像我正在上第五堂課，今天註冊了課程，就有提示告訴我7/11要完成。並且測驗也有Due Date。 
 
+<br/>
+
 ![](/assets/img/Data/schedule3.PNG)
 
-(不過剛剛也有提到，一開始我沒有注意到這些日期，擱置了三週之後發現第一堂課快過期了，就發現其實也可以延長的，但就變成要多付Coursera的月費了)
+(不過剛剛也有提到，一開始我沒有注意到這些日期，擱置了三週之後發現第一堂課快過期了，才發現測驗日期其實也可以延長的，但就變成要多付Coursera的月費了)
 
 <br/>
 
-### Learning Log
+### Learning Log 學習紀錄
 
 一開始我也很懶得寫Learning Log的Reflection，因為這部分就像case study，大多需要自己憑空設想一個議題，很花時間又不一定找得到切題的案例，還有一些題目會詢問你想要在未來怎麼使用學到的技能，我自己以前的上課經驗比較不會有這些反省的練習。但大概在上到第二部分時，我就發現這部分其實很有用，例如下面的題目：
 
@@ -177,6 +182,7 @@ I think this is a valuable addition to the ecosystem and has the potential to be
 
 這堂課之後還會反覆運用到這段你已經填寫的答案，繼續申論，或者要你回想思緒的過程，如果有徹底想過這個問題，後面學習也會很輕鬆。更重要的是，你可以把在工作上遇到的問題帶入進去，看看這堂課到底能不能對工作有幫助，去進一步判斷這堂課對你有沒有用、需不需要繼續上下去。 **取得證照絕對不是最重要的，判斷這堂課對自己有沒有用，及早設定停損點也很棒**
 
+<br/>
 
 ### Weekly Glossary
 這堂課的另一個貼心點是每週都有提供課程用到的術語表(Glossary)，除了寫習題很好用，日後工作查看也很方便，另外我也自己根據上課大綱做了一些筆記，寫完一次大概就記住了
@@ -184,6 +190,8 @@ I think this is a valuable addition to the ecosystem and has the potential to be
 ![](/assets/img/Data/glossary.PNG)
 
 <br/>
+
+---
 
 ## 其他有的沒的
 
