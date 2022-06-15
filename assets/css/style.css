@@ -298,3 +298,28 @@ footer .copyright {
 footer .copyright a {
   color: inherit;
 }
+
+/* ========================= Anchor Headings ========================= */
+
+a.anchor {
+  display: none;
+  color: #ddd;
+}
+
+a.anchor i.fa {
+  transform: scale(0.8);
+}
+
+a.anchor:hover {
+  border: none;
+  color: #ccc;
+}
+
+h1:hover .anchor,
+h2:hover .anchor,
+h3:hover .anchor,
+h4:hover .anchor,
+h5:hover .anchor,
+h6:hover .anchor {
+  display: inline;
+}
