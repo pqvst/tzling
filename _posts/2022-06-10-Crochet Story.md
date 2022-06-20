@@ -112,7 +112,7 @@ title: 編織記事 Crochet Story
 <br/>
 
 <video controls width="400">
-  <source src="/assets/img/Crochet/Crochet_incorrect" type="video/mp4">
+  <source src="/assets/img/Crochet/Crochet_incorrect.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
