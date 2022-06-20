@@ -22,7 +22,9 @@ title: 韓中翻譯策略—돌직구 中文意思
 
 ### 研究其他情境
 
+<div class="videowrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E0JU2TFzDAE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 <br/>
 

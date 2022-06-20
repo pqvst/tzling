@@ -53,13 +53,15 @@ title: 編織記事 Crochet Story
 時代變了，現在也不用去買什麼書，Youtube就有了，這時Youtube從善如流的漂來一個手機袋，看起來只要打出一個長方形，再接縫就好，感覺完全能夠駕馭。
 <br/>
 
-這次我直接衝到北車附近的大型手工藝品店想一次挑個過癮。成人的購物不再那麼捉襟見肘，雖然對自己的半途而廢多少還是有點羞恥心，但這次我只擔心買錯了尺寸，價格和材質倒是一概不放在眼裡。大型手工藝用品店和社區裡的小店不一樣，雖然也有教室在後方偶爾開個課進行一個*推坑的動作*，但大多數時候店員大姊們倒是把她們的專業牢牢收在她們的工作裙口袋裡。後來多去幾次我也大概了解了，這是一個很好的防守位置——來這裡的人功底不一，老手目標明確，沒有太多問題，而像我們這樣不知道是不是三分鐘熱度的新手，多說幾句也是白說。架上的毛線們更是各有個性，你手裡的便宜好貨，到我手裡就是容易搓線pit-tshe，另外她們也不知道你心裡的愛，值多少錢的毛線來織那條世界上獨一無二的圍巾，即使她們就和五金行的老闆一樣熟知每一樣材料在哪條走道、哪個層架，也不會主動過問你今天的起心動念，是否過兩天就會成為家中一角那一落乏人問津的道具。
+這次我直接衝到北車附近的大型手工藝品店想一次挑個過癮。成人的購物不再那麼捉襟見肘，雖然對自己的半途而廢多少還是有點羞恥心，但這次我只擔心買錯了尺寸，價格和材質倒是一概不放在眼裡。大型手工藝用品店和社區裡的小店不一樣，雖然也有教室在後方偶爾開個課進行一個*推坑的動作*，但大多數時候店員大姊們倒是把她們的專業牢牢收在她們的工作裙口袋裡。後來多去幾次我也大概了解了，這是一個很好的防守位置——來這裡的人功底不一，老手目標明確，沒有太多問題，而像我們這樣不知道是不是三分鐘熱度的新手，多說幾句也是白說。架上的毛線們更是各有個性，你手裡的便宜好貨，到我手裡就是容易搓線pit-tshe(台語)，另外她們也不知道你心裡的愛，值多少錢的毛線來織那條世界上獨一無二的圍巾，即使她們就和五金行的老闆一樣熟知每一樣材料在哪條走道、哪個層架，也不會主動過問你今天的起心動念，是否過兩天就會成為家中一角那一落乏人問津的道具。
 
 <br/>
 
 
 > *手機袋教學影片* 
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/Jgq15EWborY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="videowrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jgq15EWborY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 <br/>
 
