@@ -3,7 +3,7 @@ layout: post
 title: Google Data Analytics 值不值得上——上半場回顧 (Course1-4)
 ---
 
-這篇貼文主要內容是分享Google Data Analytics/Google數據分析課的前四堂課的心得，內容包含上課心得和課程形式的分享。
+這篇貼文主要內容是分享Google Data Analytics的上課心得(Google數據分析課)，內容包含前四堂課和課程形式的分享。
 
 
 如果你只有兩分鐘，可以只看下面這段結論**Google數據分析課值不值得上**，如果你只想快速看這堂課會怎麼進行，可以點擊跳到 **[Google Data Analytics 課程形式介紹](#google-data-analytics-課堂形式介紹)**，其他不摻水的個人心得[點這裡](#其他有的沒的)。
