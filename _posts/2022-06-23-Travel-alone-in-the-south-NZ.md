@@ -17,8 +17,8 @@ title: 2016 紐西蘭冬季南島獨旅
 
 ○ [緣起](#緣起)<br/>
 ○ [飛機航程](#飛機航程)<br/> 
-○ [皇后鎮](##紐西蘭南島-queentown-皇后鎮)<br/>
-○ [隨上隨下的 Kiwi Experience—Kiwi觀光公車](##隨上隨下的-kiwi-experiencekiwi-bus-觀光公車)<br/>
+○ [皇后鎮](#紐西蘭南島-queentown-皇后鎮)<br/>
+○ [隨上隨下的 Kiwi Experience—Kiwi觀光公車](#隨上隨下的-kiwi-experiencekiwi-bus-觀光公車)<br/>
 ○ [Miford Sound 米佛峽灣](#milford-sounds-米佛峽灣米爾佛德峽灣)<br/>
 ○ [Lake Te Anau蒂阿瑙湖/Mountain Christina 克里斯提納山](#lake-te-anau蒂阿瑙湖mountain-christina-克里斯提納山)<br/>
 ○ [Invercagill 因弗卡吉爾](#invercagill-因弗卡吉爾)<br/>
