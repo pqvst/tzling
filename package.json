@@ -6,7 +6,7 @@
   "scripts": {
     "start": "bundle exec jekyll serve --drafts --future",
     "preview": "bundle exec jekyll serve",
-    "resize": "shrinkem --size 1600 --ignore header.jpg"
+    "resize": "shrinkem --size 1600 --ignore header.jpg --ignore _site"
   },
   "repository": {
     "type": "git",
@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/pqvst/hello#readme",
   "devDependencies": {
-    "shrinkem": "^2.0.1"
+    "shrinkem": "^2.1.0"
   }
 }
