@@ -162,8 +162,14 @@ img.about {
 
 /* ========================= Posts ========================= */
 
+.posts .title {
+  text-align: left;
+  font-size: 0.8em;
+  margin-bottom: 20px;
+}
+
 .posts .post + .post {
-  margin-top: 50px;
+  margin-top: 20px;
 }
 
 
