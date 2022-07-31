@@ -6,7 +6,7 @@
   "scripts": {
     "start": "bundle exec jekyll serve --drafts --future",
     "preview": "bundle exec jekyll serve",
-    "resize": "shrinkem --size 1600 --ignore header.jpg --ignore _site"
+    "resize": "shrinkem --size 1600 --ignore header.jpg --ignore _site --ignore noresize" 
   },
   "repository": {
     "type": "git",
