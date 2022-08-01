@@ -33,3 +33,5 @@ defaults:
       path: "assets"
     values:
       image: true
+
+future: true
