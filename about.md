@@ -5,11 +5,19 @@ title: About Me
 
 <img class="about" src="/assets/img/photo.png" />
 
-# Tzu-ling Huang 黃子玲
+# Tzu-ling Huang (Chloe Huang) 
+
+黃子玲
 
 政大日文系/政大韓文（輔系）畢 
 
 自由譯者。畢業後於韓商半導體擔任翻譯及業務，後轉至消費性電子產業從事業務及PM，期間曾被派駐韓國首爾三年，現正進修中，擅長商務及心理學類翻譯，也參與企業在地化專案與商務文案編寫。
+
+**[Linkedin-Chloe Huang](https://www.linkedin.com/in/chloe-huang900/)**
+
+<br/>
+
+---
 
 ## 翻譯作品
 
