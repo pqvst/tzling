@@ -13,8 +13,10 @@ title: ChatGPT 會不會取代翻譯工作
 
 這天晚上我正在為即將到來的聖誕家族聚會翻譯《腦洞量表》這款派對桌遊，我手邊的版本是中文版，要翻譯成英文版，到了這個問題時我卡住了，決定停一下等下再翻：
 
-題目是：<br/>
-**「我是一位突然現身在武林中的新人物，請描述一下我使用的武器和我的江湖稱號？」**
+題目是： <br/>
+
+
+「**我是一位突然現身在武林中的新人物，請描述一下我使用的武器和我的江湖稱號？**」
 
 這時候剛好又想起某位華僑朋友正在複習中文，於是就請他試試把這句話翻譯成英文當成練習。過了不久他傳回來了，大致上意思都傳達得很清楚，除了「江湖」這個字以外，他表示不太清楚這個意思。
 
@@ -26,7 +28,7 @@ title: ChatGPT 會不會取代翻譯工作
 
 <br/>
 
-![](/assets/img/ChatGPT/jianghu.png)
+![](/assets/img/ChatGPT/jianghu_noresize.png)
 
 
 老實說最近在幾個平台看到很多ChatGPT的功力了，我對它的翻譯精確度並不感到吃驚，反而稍微有點失望了。你看看他，不過就翻譯成了「martial arts」這我也會呀，但是martial arts就只是武術，它也沒辦法代表江湖，江湖還是和上面說的一樣，包含更多隱藏意涵。
@@ -40,7 +42,7 @@ title: ChatGPT 會不會取代翻譯工作
 接著再繼續測試一下**Google**老朋友：
 
 
-![](/assets/img/ChatGPT/google.png)
+![](/assets/img/ChatGPT/google_noresize.png)
 <br/>
 
 Google老朋友的表現非常令人失望，他連**江湖**都不認識，用了title好像高大尚了一點，但「New character」對這款桌遊的調性來說算是一個滿差的翻譯。
@@ -58,11 +60,11 @@ Google老朋友的表現非常令人失望，他連**江湖**都不認識，用�
 
 
 所以我們請ChatGPT用江湖這個概念來寫一個小故事：<br/>
-![](/assets/img/ChatGPT/short.png)
+![](/assets/img/ChatGPT/short_noresize.png)
 <br/>
 
 ChatGPT給出的答案：<br/>
-![](/assets/img/ChatGPT/shortnovel.png)
+![](/assets/img/ChatGPT/shortnovel_noresize.png)
 <br/>
 <br/>
 
