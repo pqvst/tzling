@@ -94,8 +94,17 @@ ChatGPT給出的答案：<br/>
 
 
 <br/>
+## 其他關於ChatGPT的討論
 
+**[ChatGPT is having a Thomas Edison Moment](https://tomsmith585.medium.com/chatgpt-is-having-a-thomas-edison-moment-8342dd70d2bd)**<br/>
 
+Thomas Smith
+
+這篇提到ChatGPT技術、爆紅的原因以及日後商業化的風險和阻礙，我很喜歡他用愛迪生讓電燈普及的案例來
+
+<br/>
+
+---
 
 >桌遊是這款：**[Top Ten腦洞量表](https://shop.capstone.hk/products/top-ten-chi-ver)**，原設計者為：Aurelien Picolt，是情境類派對遊戲，好玩！
 
