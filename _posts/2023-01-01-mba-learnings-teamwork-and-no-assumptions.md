@@ -84,7 +84,7 @@ title: MBA教我的事——不做假設與跨文化合作
 答案應該很明顯——我的預設立場(tunnel vision)才是團隊合作的阻礙，立論就不對，策略當然跟著歪，我的組員們打臉了我事前做的假設，示範了一次什麼叫做大人的團隊合作。
 
 
-> ● 延伸閱讀：有關 [預設立場](https://tzling.com/2022/06/24/Bring_Yourself_Bookreview-zh-tw/#%E8%87%AA%E6%88%91%E8%A6%BA%E5%AF%9F%E7%9A%84%E9%87%8D%E8%A6%81%E9%A0%90%E8%A8%AD%E7%AB%8B%E5%A0%B4) <br/> ●團隊有[「不夠成熟的人」](#面對不夠成熟的人)怎麼辦？
+> ● 延伸閱讀：有關 [預設立場](https://tzling.com/2022/06/24/Bring_Yourself_Bookreview-zh-tw/#%E8%87%AA%E6%88%91%E8%A6%BA%E5%AF%9F%E7%9A%84%E9%87%8D%E8%A6%81%E9%A0%90%E8%A8%AD%E7%AB%8B%E5%A0%B4) <br/> ● 團隊有[「不夠成熟的人」](#面對不夠成熟的人)怎麼辦？
 
 
 ---
@@ -175,6 +175,9 @@ title: MBA教我的事——不做假設與跨文化合作
 
 那麼在不任意做假設之後，還有什麼能夠促進團隊合作、降低衝突呢？我覺得有幾個課題可以拿出來探討：
 
+
+
+<br/>
 
 ## 面對不夠成熟的人
 
@@ -289,7 +292,8 @@ MBA的職涯教練定期和我們做小組的回饋，我覺得非常有價值�
 
 她給的答案是David Maister的**信任方程式(Trust Equation)**，如下圖：
 
-![](/assets/img/trustequation.PNG)
+![](/assets/img/Tias/trustequation_noresize.png)<br/>
+*Photo by: Soidid. Website: [Soidid,思想即感覺](Soidid.tw)*
 
 <br/>
 
@@ -337,7 +341,7 @@ MBA的職涯教練定期和我們做小組的回饋，我覺得非常有價值�
 
 我還遇過這樣的吵架：大家開心出門玩，最後分帳的時候A覺得為了安排這個旅程他動用了各種人脈、勞心勞力所以有些東西就不應該跟他收錢，但B卻覺得勞力歸勞力、錢歸錢不能一起算。
 
-認知每個人對優先次序和期望的不同，就是合作的第一步，這也是對於**擺爛者**、**Freerider**的另一種使用方式———**不要把自己的理想當成所有人的理想，如果想讓自己的理想變成團隊理想，那就要講出來，不要用猜的**
+認知每個人對優先次序和期望的不同，就是合作的第一步，這也是對於**擺爛者**、**Freerider**的另一種使用方式———**不要把自己的理想當成所有人的理想，如果想讓自己的理想變成團隊理想，那就要講出來，不要用猜的。**
  
 而這就是為什麼要一開始就設定團隊目標了。
 
@@ -373,8 +377,9 @@ MBA的職涯教練定期和我們做小組的回饋，我覺得非常有價值�
 
 <br/>
 
-> 課堂上主要使用的是參考資料是[Hofstede Inssight](https://www.hofstede-insights.com/country-comparison/)的國家文化比較資料，輸入國家就可以看到各國國家文化在Power Distance、Individualism、Masculinity、Uncertainty Avoidance、Long Term Orientation、Indulgence這幾個指標上的表現，以及Erin Meyer的The Culture Map，中文版為好優文化出版的[<文化地圖>](https://www.books.com.tw/products/0010771747)。
+> 課堂上主要使用的是參考資料是[Hofstede Insight](https://www.hofstede-insights.com/country-comparison/)的國家文化比較資料，輸入國家就可以看到各國國家文化在Power Distance、Individualism、Masculinity、Uncertainty Avoidance、Long Term Orientation、Indulgence這幾個指標上的表現。另一個參考資料是Erin Meyer的<The Culture Map>，中文版為好優文化出版的 **[文化地圖](https://www.books.com.tw/products/0010771747)**。
 
+<br/>
 
 不久前瑞典朋友問我：「到底要怎麼跟華人一起工作呢？他們好像不太會舉一反三，要講好每一步驟才會照做，有時候也感覺表面上好像有做，背後卻沒有。」
 
@@ -387,6 +392,7 @@ MBA的職涯教練定期和我們做小組的回饋，我覺得非常有價值�
 
 最後我想，跨文化可能是個偽命題，到頭來我們面對的還是單一個體，沒有辦法用貼標及群組的方式輕易解構問題。
 
+<br/>
 
 ![](/assets/img/Tias/IMG_5665.jpg)<br/>
 *被朋友戲稱為歐洲藍的荷蘭秋天*
