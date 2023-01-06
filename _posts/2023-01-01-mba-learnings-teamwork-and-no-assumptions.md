@@ -321,7 +321,7 @@ MBA的職涯教練定期和我們做小組的回饋，我覺得非常有價值�
 
 ---
 
-## 他/她的優先次序(Piority)和期望(expectation)跟你不一樣
+## 他/她的優先次序(Priority)和期望(expectation)跟你不一樣
 
 試想在一個線上座談的狀況中，需要很多人發表意見，但每個討論時段有時間限制，所以你決定請大家把問題寫下來方便你決定哪些發言比較重要需要優先處理，但是這時候有些人還是自顧自的關掉靜音發言講話，有些人決定按照之前會議的經驗決定「數位舉手」(按下Zoom裡面的舉手emoji)，於是秩序很快就混亂了，最後越多人願意跟從的「行為」就自動變成這場會議的「規矩」了，即使有人覺得發言前應該要數位舉手都沒有用，而最後因為秩序混亂沒有發表到的人，就會直接去寫負評。
 
@@ -333,7 +333,7 @@ MBA的職涯教練定期和我們做小組的回饋，我覺得非常有價值�
 
 <br/>
 
-這幾個案例的共通點似乎都是一樣的：**每個人的優先次序(Piority)和期望(expectation)不一樣**，還能呼應到最前面寫到的**預設立場**，每個人都用自己的優先次序和期望做了假設，最後假設不符期待造成了結局的不理想。
+這幾個案例的共通點似乎都是一樣的：**每個人的優先次序(Priority)和期望(expectation)不一樣**，還能呼應到最前面寫到的**預設立場**，每個人都用自己的優先次序和期望做了假設，最後假設不符期待造成了結局的不理想。
 
 例如第一種情境，有些人覺得線上座談最重要的事就是「從這場活動上我可以獲得什麼，我希望我的問題會獲得解答」，而有些人卻覺得「雖然回答問題很重要，但我覺得維持一定的秩序、讓每個人都能公平發表最重要」。
 
@@ -377,7 +377,7 @@ MBA的職涯教練定期和我們做小組的回饋，我覺得非常有價值�
 
 <br/>
 
-> 課堂上主要使用的是參考資料是[Hofstede Insight](https://www.hofstede-insights.com/country-comparison/)的國家文化比較資料，輸入國家就可以看到各國國家文化在Power Distance、Individualism、Masculinity、Uncertainty Avoidance、Long Term Orientation、Indulgence這幾個指標上的表現。另一個參考資料是Erin Meyer的<The Culture Map>，中文版為**好優文化出版**的 [文化地圖](https://www.books.com.tw/products/0010771747)。
+> 課堂上主要使用的是參考資料是[Hofstede Insight](https://www.hofstede-insights.com/country-comparison/)的國家文化比較資料，輸入國家就可以看到各國國家文化在Power Distance、Individualism、Masculinity、Uncertainty Avoidance、Long Term Orientation、Indulgence這幾個指標上的表現。另一個參考資料是Erin Meyer的[The Culture Map](https://erinmeyer.com/books/the-culture-map/)，中文版為好優文化出版的 [文化地圖](https://www.books.com.tw/products/0010771747)。
 
 <br/>
 
