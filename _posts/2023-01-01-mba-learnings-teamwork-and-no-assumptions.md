@@ -293,7 +293,7 @@ MBA的職涯教練定期和我們做小組的回饋，我覺得非常有價值�
 她給的答案是David Maister的**信任方程式(Trust Equation)**，如下圖：
 
 ![](/assets/img/Tias/trustequation_noresize.png)<br/>
-*Photo by: Soidid. Website: [Soidid,思想即感覺](Soidid.tw)*
+*Photo by: [soidid](Soidid.tw)*
 
 <br/>
 
@@ -377,7 +377,7 @@ MBA的職涯教練定期和我們做小組的回饋，我覺得非常有價值�
 
 <br/>
 
-> 課堂上主要使用的是參考資料是[Hofstede Insight](https://www.hofstede-insights.com/country-comparison/)的國家文化比較資料，輸入國家就可以看到各國國家文化在Power Distance、Individualism、Masculinity、Uncertainty Avoidance、Long Term Orientation、Indulgence這幾個指標上的表現。另一個參考資料是Erin Meyer的<The Culture Map>，中文版為好優文化出版的 **[文化地圖](https://www.books.com.tw/products/0010771747)**。
+> 課堂上主要使用的是參考資料是[Hofstede Insight](https://www.hofstede-insights.com/country-comparison/)的國家文化比較資料，輸入國家就可以看到各國國家文化在Power Distance、Individualism、Masculinity、Uncertainty Avoidance、Long Term Orientation、Indulgence這幾個指標上的表現。另一個參考資料是Erin Meyer的<The Culture Map>，中文版為**好優文化出版**的 [文化地圖](https://www.books.com.tw/products/0010771747)。
 
 <br/>
 
