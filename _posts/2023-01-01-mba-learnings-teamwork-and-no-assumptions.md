@@ -293,7 +293,7 @@ MBA的職涯教練定期和我們做小組的回饋，我覺得非常有價值�
 她給的答案是David Maister的**信任方程式(Trust Equation)**，如下圖：
 
 ![](/assets/img/Tias/trustequation_noresize.png)<br/>
-*Photo by: [soidid](Soidid.tw)*
+*Photo by: [soidid](http://Soidid.tw)*
 
 <br/>
 
