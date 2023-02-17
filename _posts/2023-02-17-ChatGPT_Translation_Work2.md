@@ -115,7 +115,8 @@ ChatGPT給出的翻譯，不折不扣是相反的意思，因為ChatGPT再次看
 (景仰我吧，直到填滿我的內心為止)
 
 
-![](/assets/img/ChatGPT/Chat5.jpg)<br/>
+![](/assets/img/ChatGPT/chat5.jpg)<br/>
+
 
 大家覺得怎麼樣呢？
 
