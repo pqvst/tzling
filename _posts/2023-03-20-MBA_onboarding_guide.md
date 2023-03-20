@@ -23,10 +23,7 @@ title: 在MBA開始以前可以準備什麼？
 ● 正確的摘錄和引用、學術倫理<br/>
 ● 學術報告的結構<br/>
 
-<br/>
-有時候不僅是自己的作業需要好好留意學術寫作，如果不懂這些寫作方法，看小組同學的作業時也不知道從哪裡改起，不小心就整組一起踩雷了。
 
-(有時候同學也不是故意，但有的人就是真的不知道什麼是抄襲，不小心用錯了引用)
 
 <br/>
 
@@ -60,24 +57,31 @@ title: 在MBA開始以前可以準備什麼？
 
 <br/>
 
+**引用的幾種方式：**
+
+
+
 **1.括號引用 Quotation**
 
 簡單來說，就是加上引號——" " 的引用，原封不動的把別人的原文放在括號引用裡面。
 
-例如：
+例如：<br/>
 *According to Courtney Gahan and Jack Caulfield’s article, "Paraphrasing is an alternative to quoting (copying someone’s exact words and putting them in quotation marks)”.*
 
+<br/>
 
 **2.總結 Summarize**
 
 總結顧名思義就是「長話短說」、「講重點」，可以很容易在一篇學術論文的最前面和最後面找到。
 
+<br/>
 
 **3.改寫 Paraphrase**
 
 **改寫**和**總結**則是很常被混淆的兩個概念，也是中文母語者在求學階段比較少接觸的訓練，因為它是「換句話說」，但又不絕對是「換句話說」，有幾個細節需要注意。
 
-**改寫**最常見的錯誤作法：
+
+而大家對**改寫**最常見的誤解則有抽換詞面、調換詞組兩種，這兩種嚴格來說都不是正確的改寫(Paraphrase)：
 
 
 ● **抽換詞面、更換「同義詞 synomum」**，這在學術倫理裡面也屬於抄襲而非**引用改寫**。我們可以用剛剛的例子來看看什麼是錯誤的改寫：
@@ -93,8 +97,9 @@ title: 在MBA開始以前可以準備什麼？
 
 *Paraphrasing means expressing someone else's ideas or words using your own words, rather than simply copying and pasting their exact words and enclosing them in quotation marks. It is a different approach to incorporating someone else's words or ideas into your own writing.*
 
+<br/>
 
-改寫一的寫法只是抽換詞面，An alternative 和 another 是一樣的意思、Putting和Placing也是一樣的意思，即使放上了出處，卻也不等於Paraphrase；而改寫二完全用了自己的話重新描述一遍，就是比較安全的Paraphrase
+因為改寫一的寫法只是抽換詞面，An alternative 和 another 是一樣的意思、Putting和Placing也是一樣的意思，即使放上了出處，卻也不等於Paraphrase；而改寫二完全用了自己的話重新描述一遍，就是比較安全的Paraphrase寫法。
 
 
 <br/>
@@ -107,10 +112,9 @@ title: 在MBA開始以前可以準備什麼？
 
 *According to Riley’s research, knitting can contribute to wellbeing and quality of life because it has significant psychological and social benefits.  (Riley et al, 2013)*
 
-—改寫二
+<br/>
 
-
-改寫一很明顯只是把前後句子調換，這樣也不算是Pharaphrase 
+這個改寫方式很明顯只是把前後句子調換，這樣也不算是正確的Pharaphrase。
 
 
 
@@ -130,9 +134,30 @@ title: 在MBA開始以前可以準備什麼？
 
 (翻譯摘要的檢核問題，在語言AI的發展下這個問題勢必也會被解決)
 
+### APA格式
 
+剛剛提到了段落中的引用方式，接下來也需要認識一下學術寫作規範中的Reference清單寫法。
 
-> 關於英文學術寫作的延伸閱讀：
+最簡單的方式是使用Google Scholar或學校的校圖系統來找相關論文，並且直接點擊網站上的「Citation(引用)」、「Cite Article(引用報告)」
+
+![](/assets/img/MBA/citation.jpg)<br/><br/>
+![](/assets/img/MBA/Citation2.jpg)<br/>
+
+Word本身也有內建Citation系統，或者使用APA文獻引用格式產生器來產生正確的APA格式(大推薦)，並且注意清單的順序要依照首字的字母順序(超重要)。
+
+[APA產生器](https://www.scribbr.com/citation/generator/apa/)
+
+<br/>
+
+### 小結論
+<br/>
+有時候不僅是自己的作業需要好好留意學術寫作，如果不懂這些寫作方法，看小組同學的作業時也不知道從哪裡改起，不小心就整組一起踩雷了。
+
+有時候同學也不是故意，但有的人就是真的不知道什麼是抄襲，不小心用錯了引用或是產生了不符合規定的參考文件清單，提早學好怎麼寫，可以省很多時間和力氣。
+
+<br/>
+
+> 關於英文學術寫作的延伸閱讀：<br/>
 ● [學術寫作指引 Guide to Academic Writing](https://www.researchgate.net/publication/293959175_Guide_to_Academic_Writing)<br/>
 ● [相似度檢核工具—Turnitin](https://www.turnitin.com/)<br/>● [APA產生器](https://www.scribbr.com/citation/generator/apa/)<br/>
 ● [Paraphrase 改寫教學](https://www.scribbr.com/working-with-sources/how-to-paraphrase/) <br/>
@@ -169,9 +194,9 @@ title: 在MBA開始以前可以準備什麼？
 
 在來讀MBA以前，我已經很久沒有上課了，現在的讀書方式也和以前差很多，就像上面說的一樣，因為學校系統高度數位化，我很推薦大家可以找自己適合的方式做筆記。
 
-筆電當然是必須的，另外班上也有很多同學會用平板，抄板書很方便。
+上課筆電當然是必須的，另外班上也有很多同學會用平板。
 
-我自己用得比較順手的方式是用平板搭配**Good Note**直接寫筆記，除了省紙張以外，也很容易重新整理段落、章節、插入課堂講義、課堂照片，甚至在簡報講義上直接補充註記，在準備考試的時候更容易喚起上課記憶，也方便和同學共筆或交換。
+我自己用得比較順手的方式是用平板搭配**Good Note**直接寫筆記，除了省紙張以外，也很容易排版，像是重新整理段落、章節、插入課堂講義、課堂照片等等，省去下課回家重新整理的時間，甚至還能在簡報講義上直接補充註記、在Case上畫重點，在準備考試的時候更容易喚起上課記憶，也方便和同學共筆或交換。
 
 <br/>
 
