@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 在MBA開始以前可以準備什麼？
+title: 在MBA開學前可以準備什麼？
 ---
 
 算算時間，三月底大概是許多歐洲系MBA(9月學程)開始面試和放榜的時期，而我的MBA學程也已經來到了中後半，大概可以開始和大家分享一下在MBA、MScBA入學前，可以先準備什麼了：
 
-這篇文章沒有包含入學申請內容，主要針對MBA學習前的準備。
+這篇文章沒有包含入學申請內容，主要針對MBA開學前的準備。
 
 <br/>
 
@@ -39,7 +39,8 @@ title: 在MBA開始以前可以準備什麼？
 
 <br/>
 
-**Turnitin 相似度檢查範例**：</br>
+**Turnitin 相似度檢查範例**：
+</br>
 
 ![](/assets/img/MBA/proofread.jpg)<br/>
 
@@ -66,13 +67,13 @@ title: 在MBA開始以前可以準備什麼？
 簡單來說，就是加上引號——" " 的引用，原封不動的把別人的原文放在括號引用裡面。
 
 例如：<br/>
-*According to Courtney Gahan and Jack Caulfield’s article, "Paraphrasing is an alternative to quoting (copying someone’s exact words and putting them in quotation marks)”.*
+*"According to Courtney Gahan and Jack Caulfield’s article, "Paraphrasing is an alternative to quoting (copying someone’s exact words and putting them in quotation marks)”.*
 
 <br/>
 
 **2.總結 Summarize**
 
-總結顧名思義就是「長話短說」、「講重點」，可以很容易在一篇學術論文的最前面和最後面找到。
+總結顧名思義就是「長話短說」、「講重點」，很容易在一篇學術論文的最前面和最後面找到。
 
 <br/>
 
@@ -81,21 +82,22 @@ title: 在MBA開始以前可以準備什麼？
 **改寫**和**總結**則是很常被混淆的兩個概念，也是中文母語者在求學階段比較少接觸的訓練，因為它是「換句話說」，但又不絕對是「換句話說」，有幾個細節需要注意。
 
 
-而大家對**改寫**最常見的誤解則有抽換詞面、調換詞組兩種，這兩種嚴格來說都不是正確的改寫(Paraphrase)：
+大家對**改寫**最常見的誤解是**抽換詞面**、**調換詞組**兩種，這在中文裡面都是換句話說，而且在判斷抄襲與否上，這兩者經常被從輕判斷，但在英文學術寫作裡面，這兩種嚴格來說都不是正確的改寫(Paraphrase)。
+
+<br/>
+
+● **抽換詞面、更換「同義詞 synonym」**，這在學術倫理裡面屬於抄襲而非**引用改寫**。我們可以用剛剛的例子來看看什麼是錯誤的改寫：
 
 
-● **抽換詞面、更換「同義詞 synomum」**，這在學術倫理裡面也屬於抄襲而非**引用改寫**。我們可以用剛剛的例子來看看什麼是錯誤的改寫：
-
-
-*原文："Paraphrasing is **an alternative** to quoting (copying someone’s exact words and **putting** them in quotation marks)” ( Gahan & Caulfield, 2022)*
+*原文："Paraphrasing is **an alternative** to quoting (copying someone’s exact words and **putting** them in quotation marks)” (Gahan & Caulfield, 2022)*
 
 —改寫一：
 
-*Paraphrasing is **another** way to quoting (copying someone’s exact words and **placing** them in quotation marks) ( Gahan & Caulfield, 2022)*
+*Paraphrasing is **another** way to quoting (copying someone’s exact words and **placing** them in quotation marks) (Gahan & Caulfield, 2022)*
 
 —改寫二：
 
-*Paraphrasing means expressing someone else's ideas or words using your own words, rather than simply copying and pasting their exact words and enclosing them in quotation marks. It is a different approach to incorporating someone else's words or ideas into your own writing.*
+*Paraphrasing means expressing someone else's ideas or words using your own words, rather than simply copying and pasting their exact words and enclosing them in quotation marks. It is a different approach to incorporating someone else's words or ideas into your own writing.(Gahan & Caulfield, 2022)*
 
 <br/>
 
@@ -116,8 +118,7 @@ title: 在MBA開始以前可以準備什麼？
 
 這個改寫方式很明顯只是把前後句子調換，這樣也不算是正確的Pharaphrase。
 
-
-
+因為改寫這件事對很多人來說都很陌生，我自己覺得比較好用的作法是——把想要引用的段落默背起來(用英文)，在不看文字的情況下用自己的語言說一遍，這樣就有比較高機會不會原文照抄、照改。
 
 
 
@@ -143,9 +144,9 @@ title: 在MBA開始以前可以準備什麼？
 ![](/assets/img/MBA/citation.jpg)<br/><br/>
 ![](/assets/img/MBA/Citation2.jpg)<br/>
 
-Word本身也有內建Citation系統，或者使用APA文獻引用格式產生器來產生正確的APA格式(大推薦)，並且注意清單的順序要依照首字的字母順序(超重要)。
+Word本身也有內建Citation系統，除了Word內建的引文功能以外，也可以使用**APA文獻引用格式產生器**來產生正確的APA格式(大推薦！)，並且注意清單的順序要依照首字的字母順序(超重要！)。
 
-[APA產生器](https://www.scribbr.com/citation/generator/apa/)
+> [APA產生器](https://www.scribbr.com/citation/generator/apa/)
 
 <br/>
 
@@ -154,6 +155,8 @@ Word本身也有內建Citation系統，或者使用APA文獻引用格式產生�
 有時候不僅是自己的作業需要好好留意學術寫作，如果不懂這些寫作方法，看小組同學的作業時也不知道從哪裡改起，不小心就整組一起踩雷了。
 
 有時候同學也不是故意，但有的人就是真的不知道什麼是抄襲，不小心用錯了引用或是產生了不符合規定的參考文件清單，提早學好怎麼寫，可以省很多時間和力氣。
+
+至於怎麼寫主題句、怎麼寫Introduction、Executive Summary等基本功，如果可以的話，當然還是開學前趁早練好最好。
 
 <br/>
 
@@ -168,7 +171,7 @@ Word本身也有內建Citation系統，或者使用APA文獻引用格式產生�
 
 ## 根據課綱做行前預習、熟悉學校系統
 
-另外一個可以提前作準備的事情是熟悉課堂專有用語，因為一開始沒有商管背景，一開始上課遇到沒有讀過的專有名詞還蠻辛苦的，雖然這個陣痛期對通過雅思、Gmat考驗的MBA學生來說不至於太久，但作為一個過來人，會很希望早點知道這件事，並且趁早做準備。
+另外一個可以提前作準備的事情是熟悉課堂專有用語，因為一開始沒有商管背景，一開始上課遇到沒有讀過的專有名詞還蠻辛苦的。雖然這個陣痛期對通過雅思、Gmat考驗的MBA學生來說不至於太久，但作為一個過來人，會很希望早點知道這件事，並且趁早做準備。
 
 荷蘭的MBA教學非常在乎上課互動，互動和傳達立也是一個重要的講師評比項目，理論上教授和講師用的英文不會太難，不過還是免不了會因為口音不同一時聽不懂，這時候如果剛好講到重要概念，就很容易跟不上，同時也不知道該怎麼發問。
 
