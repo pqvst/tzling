@@ -29,7 +29,7 @@ title: 關於「內在動機」
 **「我們需不需要因為自己內在動機的低落責怪自己？Or...責怪別人？」**
 
 
-> Driver 是Merrill-Reid社交性格模式的其中一項，類別分為：外向支配型(Driver)、內向支配型(Analytical)、內向合作型(Amiable)、外向合作型(Express)，詳細說明請跳轉至[附錄：Merril-Reid 社交性格模式]
+> Driver 是Merrill-Reid社交性格模式的其中一項，類別分為：外向支配型(Driver)、內向支配型(Analytical)、內向合作型(Amiable)、外向合作型(Express)，詳細說明請跳轉至 [附錄：Merril-Reid 社交性格模式](#附錄merril-reid-社交性格模式)
 
 <br/>
 
