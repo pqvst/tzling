@@ -40,7 +40,7 @@ title: 在MBA開學前可以準備什麼？
 <br/>
 
 **Turnitin 相似度檢查範例**：
-</br>
+<br/>
 
 ![](/assets/img/MBA/proofread.jpg)<br/>
 
