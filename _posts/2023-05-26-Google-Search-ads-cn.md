@@ -5,7 +5,7 @@ title: 為什麼還是會投Google關鍵字廣告？
 
 先前在做一些網站產品的時候，我們討論到要不要定期付費投關鍵字廣告。撇開費用因素，會有這個疑慮是因為覺得最近身邊好像越來越多人會裝瀏覽器的廣告封鎖工具，這樣好像會浪費投放關鍵字的錢。關於這個問題，應該有很多人對新創專案該不該把關鍵字廣告當成固定支出產生跟我們一樣的疑慮，所以在這篇文章中，我想分享一些我最近在Google廣告中獲得的見解。
 
-> 這篇文章一開始是先寫成英文版本再翻譯，如較習慣閱讀英文，可以參考英文版：[](Why we still use Google Search Ads to increase the discoverability of our SaaS products? )
+> 這篇文章一開始是先寫成英文版本再翻譯，如較習慣閱讀英文，可以參考英文版：[Why we still use Google Search Ads to increase the discoverability of our SaaS products?](https://tzling.com/2023/05/26/google-search-ads/)
 
 首先我們要先定義轉換率(Conversion Rate)，對於新創的SaaS專案來說，最主要的轉換目標經常是希望使用者在瀏覽了網站、認識產品之後，進而鼓勵他們在網站上點擊「註冊」或「開始試用」的按鈕，畢竟要有註冊或開始試用，一個SaaS產品才能開始為使用者帶來幫助。為了達成這一點，直觀的介面和清晰的網站資訊至關重要。
 
