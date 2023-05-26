@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why we still use Google Search Ads to increase the discoverability of our SaaS products? 
+title: Why do we still use Google Search Ads to increase the discoverability of our SaaS products? 
 hidden: true
 ---
 
@@ -32,4 +32,11 @@ The correlation between the keywords users search for and the corresponding sear
 
 During the Google Search Ads projects, we found the **"customized"** search result appearance play an incremental role to draw users' attentions. Sometimes, if the **search result Appearance** is confusing, people may choose not to visit the website. This is because nowadays, we only have a few seconds to pay attention to the information showing in the search result. 
 
-For example, if you're operating a ski resort in Hakuba, Japan, but the search result displays a title like "Japanese restaurant" for your website link, people may get confused whether you're promoting hotel accommodations in Hakuba or a restaurant chain across Japan. This example may seem silly, but it actually happens when people perform searches.
+For example, if you're operating a ski resort in Hakuba, Japan, but the search result displays a title like "Japanese restaurant-Sakura" for your website link, people may get confused whether you're promoting hotel accommodations in Hakuba or a restaurant chain across Japan. This example may seem silly, but it actually happens when people perform searches.
+
+Especially before optimizing the website structure, Google Search Ads may recommend a display style of search result and the call to actions that do not align with the desired search outcome. It is important to pay special attention when actually launching the Google Search Ads.
+
+
+
+
+That concludes the article! If you have any feedback or suggestions, please feel free to share them below. Let's engage in a learning process together and benefit from each other's insights!
