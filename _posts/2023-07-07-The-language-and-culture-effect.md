@@ -4,6 +4,8 @@ title: The Language & Culture Effect-How People Change Across Languages
 hidden: true
 ---
 
+
+
 ![](/assets/img/shibuya.jpg)<br/>
 
 I had been in contact with a Japanese individual who was helping me transfer a concert ticket. As I wasn't familiar with the ticket website, I sought her suggestions, and she kindly provided me with a guide. In my message to her, I expressed my gratitude:
