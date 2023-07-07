@@ -4,6 +4,8 @@ title: The Language & Culture Effect-How People Change Across Languages
 hidden: true
 ---
 
+![](/assets/img/shibuya.jpg)<br/>
+
 I had been in contact with a Japanese individual who was helping me transfer a concert ticket. As I wasn't familiar with the ticket website, I sought her suggestions, and she kindly provided me with a guide. In my message to her, I expressed my gratitude:
 
 "Thank you very much for the arrangement and suggestion! I wouldn't have been able to sort it out without your help."
@@ -12,7 +14,9 @@ She replied:
 
 "No no no, it's me who needs to say thanks to you for signing up on the website in advance and doing your own research."
 
-I have to say, I barely did anything. I guess she just had to find something to say it in return to be polite, typical! In an English conversation, this might come across as slightly odd, as some people may perceive it as sarcasm. However, I know she genuinely meant it. I've experienced similar situations while talking with Japanese individuals before.
+> PS: All conversation was in Japanese.
+
+I have to say, I barely did anything. I guess she just had to find something to say it in return to be polite. In an English conversation, this might come across as slightly odd, as some people may perceive it as sarcasm. However, I know she genuinely meant it. I've experienced similar situations while talking with Japanese individuals before.
 
 Yesterday, I was at a knitting café, working on my own projects. Several Japanese women sat beside me, and I could imagine they were "housewives," passing the time while waiting for their children and husbands to finish their daily work and studies. Their conversation covered a wide range of topics, from knitting techniques and current news to recent fashion trends and AI!
 
@@ -44,7 +48,7 @@ Having been away from Japan for a while, I had completely forgotten about this c
 "すいません/すみません!"<br/>
 > su i ma sen/Su.mi.ma.sen
 
-I have definitely learned to be more direct in my European life. If someone asks me, "How do you feel about the food?" I would say, "Oh, well, I'm not a big fan of XXX. I don't really like it," instead of "This is not bad! I like it!" or staying silent.
+I have definitely learned to be more direct in my European life. If someone asks me, "How do you feel about the food?" I would say, "Oh, well, I'm not a big fan of X. I don't really like it," instead of "This is not bad! I like it!" or staying silent.
 
 When people ask me, "Where did you get your earrings? They look nice! Are they expensive?" I would say, "They're from a Danish brand called Pilgrim, and they cost 38 Euro," instead of "Last week, I was back in Sweden, celebrating my husband's birthday, and I bought them at the airport, so the price is decent."
 
