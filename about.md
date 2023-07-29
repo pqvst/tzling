@@ -11,11 +11,9 @@ title: About Me
 
 日韓中自由譯者。畢業後於韓商半導體擔任翻譯及業務，後轉至消費性電子產業從事業務及PM，期間曾被派駐韓國首爾三年，現正進修中。擅長商務及心理學類翻譯，也參與企業在地化專案與商務文案編寫。
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="small" data-theme="light" data-type="VERTICAL" data-vanity="chloe-huang900" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://nl.linkedin.com/in/chloe-huang900/en?trk=profile-badge">Chloe Huang</a></div>
-              
-              
+<a href="https://www.linkedin.com/in/chloe-huang900/" target="_blank">
+  <i class="fa fa-linkedin-square" />
+</a>
 
 <br/>
 
