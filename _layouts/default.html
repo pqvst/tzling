@@ -29,8 +29,10 @@
     </header>
     
     <nav>
-      <a href="/" {% if page.url == '/' %}class="active"{% endif %}>My Blog</a>
-      <a href="/about" {% if page.url == '/about/' %}class="active"{% endif %}>About Me</a>
+      <a href="/{% if page.lang == 'en' %}en/{% endif %}" {% if page.url == '/' %}class="active"{% endif %}>Blog</a>
+      {% if page.lang != 'en' %}<a class="lang" href="/en/">ENG</a>{% endif %}
+      {% if page.lang == 'en' %}<a class="lang" href="/">中文</a>{% endif %}
+      <a href="/about" {% if page.url == '/about/' %}class="active"{% endif %}>About</a>
     </nav>
 
     <div class="wrap">

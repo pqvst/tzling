@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Language & Culture Effect-How People Change Across Languages
-hidden: true
+lang: en
 ---
 
 

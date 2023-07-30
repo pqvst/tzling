@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Havsprinsen-The Sea Prince at Malmo
-hidden: true
+title: Havsprinsen-The Sea Prince at Malmö
+lang: en
 ---
 
 

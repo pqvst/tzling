@@ -15,29 +15,56 @@ layout: default
   </div>
   <hr>
   <div class="page-nav">
+    {% assign nextPost = false %}
+    {% for post in site.posts %}
+      {% if post.lang == page.lang %}
+        {% if post.url == page.url %}
+          {% break %}
+        {% else %}
+          {% assign nextPost = post %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+
+    {% assign prevPost = false %}
+    {% for post in site.posts reversed %}
+      {% if post.lang == page.lang %}
+        {% if post.url == page.url %}
+          {% break %}
+        {% else %}
+          {% assign prevPost = post %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+
     <div class="page-nav-prev">
-      {% if page.previous.url %}
-        <a class="prev" href="{{page.previous.url}}">&laquo; Previous: {{page.previous.title}}</a>
+      {% if prevPost.url %}
+        <a class="prev" href="{{prevPost.url}}">&laquo; Previous: {{prevPost.title}}</a>
       {% endif %}
     </div>
     <div class="page-nav-next">
-      {% if page.next.url %}
-        <a class="next" href="{{page.next.url}}">Next: {{page.next.title}} &raquo;</a>
+      {% if nextPost.url %}
+        <a class="next" href="{{nextPost.url}}">Next: {{nextPost.title}} &raquo;</a>
       {% endif %}
     </div>
   </div>  
 </div>
 
+{% if page.lang == 'en' %}
+<h2>Leave a comment!</h2>
+{% else %}
 <h2>—告訴我你的想法—</h2>
+{% endif %}
 <br/>
 
 <div class="commentbox"></div>
 <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
 <script>commentBox('5656929317683200-proj')</script><br/>
-<div class="small">
-(為了過濾廣告和Spam，留言前要麻煩大家先登入，登入後仍可以選擇匿名發言，如需匿名，請勾選「Anonymous」。如需回覆提醒，請勾選「Email replies」)
-</div>
 
+{% if page.lang == 'en' %}
+<p>Contact me:</p>
+{% else %}
 <p>如果不希望留言刊登在這個頁面，也可以利用下方表單，留言將會寄到我的信箱，有任何想法或建議都歡迎在下面留給我知道 謝謝 :) </p>
+{% endif %}
 
 {% include contact.html %}

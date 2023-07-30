@@ -95,28 +95,43 @@ header {
 /* ========================= Header ========================= */
 
 nav {
-  font-family: 'Jost', sans-serif;
+  display: flex;
   border-top: solid 1px #ccc;
   border-bottom: solid 1px #ccc;
-  padding: 10px 5px;
+  padding: 10px 20px;
   margin-bottom: 50px;
-  text-align: center;
-  font-weight: 200;
   max-width: 700px;
   margin: 0 auto;
+  align-items: center;
 }
 
-nav a {
+nav > a {
+  font-family: 'Jost', sans-serif;
+  font-weight: 200;
   text-transform: uppercase;
   text-decoration: none;
   padding: 10px;
   letter-spacing: 5px;
 }
 
-nav a:hover {
+nav > a:hover {
   color: #36a4b0;
 }
 
+nav a.lang {
+  font-family: sans-serif;
+  font-weight: normal;
+  border: solid 1px rgb(74, 138, 158);
+  border-radius: 3px;
+  font-size: 0.7rem;
+  padding: 0 2px;
+  letter-spacing: normal;
+  font-weight: 600;
+  background-color: rgb(201, 223, 230);
+  margin-right: 20px;
+  color: rgb(14, 103, 141);
+  line-height: normal;
+}
 
 img.about {
   border-radius: 50%;

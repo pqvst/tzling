@@ -1,11 +1,12 @@
 ---
 layout: default
 title: Blog
+lang: en
 ---
 
 <div class="posts">
   {% for post in site.posts %}
-    {% unless post.lang == 'en' %}
+    {% if post.lang == 'en' %}
     <div class="post">
       <div class="title">
         <a href="{{ post.url }}"><h2>{{ post.title }}</h2></a>
@@ -15,6 +16,6 @@ title: Blog
         </div>
       </div>
     </div>
-    {% endunless %}
+    {% endif %}
   {% endfor %}
 </div>
