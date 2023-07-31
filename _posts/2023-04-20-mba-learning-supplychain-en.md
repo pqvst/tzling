@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MBA Learning-Overcooked-Ramen Kingdom
-hidden: true
+lang: en
 ---
 
 ## Ramen Kingdom
