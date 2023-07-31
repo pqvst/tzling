@@ -75,7 +75,7 @@ title: 荷蘭第七章———我與我的烏特勒支
 
 
 <div class="videowrapper">
-<iframe width="560" height="315" src="https://youtube.com/shorts/ZOUeeXRLU38?feature=share" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/ZOUeeXRLU38?feature=share" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
@@ -100,7 +100,7 @@ title: 荷蘭第七章———我與我的烏特勒支
 
 二樓還有自己打洞做音樂卡播放的小空間，可以按照提供的孔樣製作，也可以上網找圖卡照著打洞。
 
-有人知道我們打的這首歌是什麼嗎？:)
+有人知道我們打的這首歌是什麼嗎？(影片後半段):)
 
 <div class="videowrapper">
 <iframe width="560" height="315" src="https://youtube.com/embed/IaXAgtTdf5k?feature=share" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
