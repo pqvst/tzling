@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New Transportation in Sweden- E-Scooter TIER, LIME, and so on...
-Lang: en
+lang: en
 ---
 
 First of all, I was hesitating to name the title of this post like this, because, in reality, this personal blog has been around for four or five years, not exactly new. But when I think about the three years we lost due to the pandemic starting from 2020, and then subtract the time for the warm-up period of the new venture, which is about two years, E-scooters seems relatively new, at least for me.
@@ -120,33 +120,32 @@ From a practical perspective, the popularity of shared E-scooters in Sweden may 
 **2020-2021 E-mobility fee comparison**
 
 <table>
-<thead>
-<tr>
-<th>-</th>
-<th>VOL</th>
-<th>TIER</th>
-<th>BOLT</th>
-<th>LIME</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Unlock Fee</td>
-<td>SEK$10 (0.8 EUR)</td>
-<th>SEK$10 (0.8 EUR)</th>
-<th>Free</th>
-<th>SEK$10 (0.8 EUR)</th>
-</tr>
-<tr>
-<td>Fee Per Minutes</td>
-<td>SEK$1-3 (Floating Rate)</td>
-<td>SEK$2.25 (Floating Rate)</td>
-<td>First 10min=SEK$3, After 10min= SEK$2 per minutes
-<td>SEK$3</td>
-
-</tbody>
+    <thead>
+        <tr>
+            <th>-</th>
+            <th>VOL</th>
+            <th>TIER</th>
+            <th>BOLT</th>
+            <th>LIME</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Unlock Fee</td>
+            <td>SEK$10 (0.8 EUR)</td>
+            <td>SEK$10 (0.8 EUR)</td>
+            <td>Free</td>
+            <td>SEK$10 (0.8 EUR)</td>
+        </tr>
+        <tr>
+            <td>Fee Per Minutes</td>
+            <td>SEK$1-3 (Floating Rate)</td>
+            <td>SEK$2.25 (Floating Rate)</td>
+            <td>First 10min=SEK$3, After 10min= SEK$2 per minutes</td>
+            <td>SEK$3</td>
+        </tr>
+    </tbody>
 </table>
-
 
 ![](/assets/img/E-Scooter/Price.PNG)
 
@@ -165,12 +164,15 @@ What we can observe is that platforms try to solve this problem through technolo
 
 
 
-*Voi's parking guide* <br/>
+*Voi's parking guide*
+<br/>
+
 ![](/assets/img/E-Scooter/Voi-Parking-%20Map.PNG)
 
-*TIER's parking guide* <br/>
-![](/assets/img/E-Scooter/Parking2.PNG)
+*TIER's parking guide*
+<br/>
 
+![](/assets/img/E-Scooter/Parking2.PNG)
 
 ![](/assets/img/E-Scooter/IMG_6759.png)
 
