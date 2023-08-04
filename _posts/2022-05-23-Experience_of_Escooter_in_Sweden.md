@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New Transportation in Sweden- E-Scooter TIER, LIME, and so on...
-Lang: EN
+Lang: en
 ---
 
 First of all, I was hesitating to name the title of this post like this, because, in reality, this personal blog has been around for four or five years, not exactly new. But when I think about the three years we lost due to the pandemic starting from 2020, and then subtract the time for the warm-up period of the new venture, which is about two years, E-scooters seems relatively new, at least for me.
@@ -111,9 +111,11 @@ From my perspective, I find that the optimal riding distance is around 3-5 kilom
 
 As for the pricing, I have to mention that since this is Northern Europe, everything could be a bit expensive compared to Asia. I checked my bill, and for a six-minute ride, it cost 35 Swedish Kronor, which is roughly over 100 New Taiwan Dollars (3. EUR). The distance covered was a little over two kilometers. Comparing this to the taxi fare in Taipei, which is 70 New Taiwan Dollars (2.3 EUR) for the first 1.25 kilometers, the cost of traveling a little over two kilometers on an electric scooter is equivalent to the price of a taxi ride in Taipei.
 
-However, when you consider the starting fee of *40 SEK (approximately 120 New Taiwan Dollars,4 EUR)* and a minimum fee of *69 SEK (approximately 210 New Taiwan Dollars,7 EUR)* for Swedish taxis and Uber fee, the price of E-scooters is quite affordable. Especially in Sweden, where there aren't as many taxis running on the streets, and even ordering an Uber might require some waiting time, electric scooters become very convenient. Some platforms also offer subscription plans, making them even more cost-effective.
+However, when you consider the starting fee of *40 SEK (approx. 4 EUR)* and a minimum fee of *69 SEK (approx. 7 EUR)* for Swedish taxis and Uber fee, the price of E-scooters is quite affordable. Especially in Sweden, where there aren't as many taxis running on the streets, and even ordering an Uber might require some waiting time, electric scooters become very convenient. Some platforms also offer subscription plans, making them even more cost-effective.
 
 From a practical perspective, the popularity of shared E-scooters in Sweden may be related to the country's car usage habits. There are very strict parking regulations here, and many residential areas have rules prohibiting parking or have designated parking zones with high fees. Before owning a car in Sweden, one must be certain of having a parking space; otherwise, finding parking after work-hour can be a nightmare. Many households have only one car, or some even decide not to buy a car at all. In such situations, the emergence of E-scooters naturally fills the need for short-distance travel to transportation hubs.
+
+<br/>
 
 **2020-2021 E-mobility fee comparison**
 
@@ -148,9 +150,12 @@ From a practical perspective, the popularity of shared E-scooters in Sweden may 
 
 ![](/assets/img/E-Scooter/Price.PNG)
 
->Reference：[Expressen2022 July](https://www.expressen.se/dinapengar/konsument/hyra-elscooter-har-ar-reglerna-och-vad-det-kostar/)、[KreditKoll-Electric scooter - costs and how to make money on it](https://www.kreditkoll.nu/artikel/kostnad-hyra-elscooter?fbclid=IwAR2PIGim-1-vypPUHw0Q6k8zJ-CY07BQqB8DdOUrQHv8ZrLtMZWcBArYmLU)
+<br/>
+
+> Reference：[Expressen2022 July](https://www.expressen.se/dinapengar/konsument/hyra-elscooter-har-ar-reglerna-och-vad-det-kostar/)、[KreditKoll-Electric scooter - costs and how to make money on it](https://www.kreditkoll.nu/artikel/kostnad-hyra-elscooter?fbclid=IwAR2PIGim-1-vypPUHw0Q6k8zJ-CY07BQqB8DdOUrQHv8ZrLtMZWcBArYmLU)
 
 
+<br/>
 
 ## How to Park Electric Scooters
 
