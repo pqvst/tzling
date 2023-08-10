@@ -147,7 +147,6 @@ From a practical perspective, the popularity of shared E-scooters in Sweden may 
     </tbody>
 </table>
 
-![](/assets/img/E-Scooter/Price.PNG)
 
 <br/>
 
