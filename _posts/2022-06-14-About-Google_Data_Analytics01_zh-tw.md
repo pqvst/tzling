@@ -209,3 +209,18 @@ I think this is a valuable addition to the ecosystem and has the potential to be
 目前也開始了Course 5，希望兩個月後可以把最後的5-8上完，歡迎大家來當我的同學!
 
 
+<br/>
+
+
+> 後半段心得請參考：[GOOGLE DATA ANALYTICS 值不值得上——下半場回顧 (COURSE5-8) + 總結](https://tzling.com/2023/08/10/Google_data_analytics02_zh-tw/)
+
+
+<br/>
+
+----
+
+**延伸：Google相關部落格文**
+
+●[〈GOOGLE DATA ANALYTICS 值不值得上——上半場回顧 (COURSE1-4)〉](https://tzling.com/2022/06/14/About-Google_Data_Analytics01_zh-tw/)<br/>
+● [譯者可以用GOOGLE翻譯嗎？](https://tzling.com/2021/12/10/%E8%AD%AF%E8%80%85%E5%8F%AF%E4%BB%A5%E7%94%A8Google%E7%BF%BB%E8%AD%AF%E5%97%8E/)<br/>
+● [為什麼還是會投GOOGLE關鍵字廣告？](https://tzling.com/2023/05/26/Google-Search-ads-cn/)

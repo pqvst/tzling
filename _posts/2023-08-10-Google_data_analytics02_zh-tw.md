@@ -79,10 +79,10 @@ title: Google Data Analytics 值不值得上——下半場回顧 (Course5-8) + 
 
 我常常覺得公司裡的分析師非常厲害，同樣的資料到他們手上可以變成非常清晰的圖表，圖表的類別更是各種各樣，在這堂課上也會介紹到。有些看似基本的概念其實意外實用，像是Decision-Tree教你要挑哪種圖表，還有David McCandless提到的圖表視覺化四要素，可以幫助我們日後做簡報的時候檢查圖表有沒有夠有力：
 
-Information (data)
-Story (concept)
-Goal (function)
-Visual form (metaphor)
+Information (data)<br/>
+Story (concept)<br/>
+Goal (function)<br/>
+Visual form (metaphor)<br/>
 
 另外也提供了一些步驟或小技巧來幫助我們做更簡單易懂的簡報，不過整體來說，Tableau的教學算是非常基本，有興趣的話可以多拿點實際的素材自己到Tableau上玩玩看。
 
@@ -104,6 +104,10 @@ Visual form (metaphor)
 
 
 而我之前因為好奇 Programming，已經在 Codecademy上學了一點 Javascript的皮毛和 How to code，既不算是從零開始，也不算有任何語言的基礎。對我來說，學習兩種語言（R、Python）的機會成本是差不多的，而且正如同以前學日文的時候覺得不如韓文也一起學起來一樣，因為系統相同，學起來應該是相輔相成。
+
+
+<br/>
+<br/>
 
 
 *--中場分隔線--*
@@ -141,7 +145,7 @@ Visual form (metaphor)
 *想要copy 字串直接使用在題目裡面也是不行的，通通都要自己打：*<br>
 ![](/assets/img/Data/Copy.jpg)<br/>
 
-
+<br/>
 
 ## Case Study
 
