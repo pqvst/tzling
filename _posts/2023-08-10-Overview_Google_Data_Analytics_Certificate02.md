@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Overall Feedback on the Google Data Analytics Course on Coursera (Second Half)
+title: Learning experience on the Google Data Analytics Course on Coursera (Second Half)
+lang: en
 ---
 
 I can't believe it has been a year since I published this post:[〈Overall Feedback on the Google Data Analytics Course on Coursera (First Half)〉](https://tzling.com/2022/06/14/Google_Data_Analytics_Certificate01/)
