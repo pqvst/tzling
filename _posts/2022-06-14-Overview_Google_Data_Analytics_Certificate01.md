@@ -6,7 +6,7 @@ lang: en
 
 This post if about my personal feedback of Google Data Analytics Course from the 1st to 4th classes.
 
-If you only have 2 minutes, you might want to jump directly to the next part: **Is it worthly to take this Google Data Analytics Course**. If you only want to know how Google proceed the course, you can jump to **[Google Data Analytics Course Introduction](#google-data-analytics-Introduction)** by clicking the link. Other review:[Click Here](#Just-My-Thought)。
+If you only have 2 minutes, you might want to jump directly to the next part: **Is it worthly to take this Google Data Analytics Course**. If you only want to know how Google proceed the course, you may jump to **[Google Data Analytics Course Introduction](#google-data-analytics-course-introduction)** by clicking the link. Other personal review:[Just My Thought](#just-my-thought)。
 
 <br/>
 
@@ -14,13 +14,13 @@ If you only have 2 minutes, you might want to jump directly to the next part: **
 
 *(You may jump to each section by clicking each items below)*
 
-#### [ ●Overall：5/5](#Overall Score—55)
+#### [ ●Overall：5/5](#-overall-score-55-)
 (For those who have work experience but no data related experience )
-#### [● Flexibility：4/5](#Flexibility-45) 
-#### [● Interactivity：5/5](#Interactivity-55)
-#### [● Difficulty：3/5](#Difficulty-35)
-#### [● Practical Benefit：?/5](#PracticalBenefit-5)
-#### [● Price：4/5](#Price-45)
+#### [● Flexibility：4/5](#flexibility-45) 
+#### [● Interactivity：5/5](#interactivity-55)
+#### [● Difficulty：3/5](#difficulty-35)
+#### [● Practical Benefit：?/5](#practical-benefit-5)
+#### [● Price：4/5](#price-45)
 
 <br/>
 
