@@ -113,3 +113,20 @@ PS: What's great about Geldmaat ATMs is that if you have accounts from other Eur
 
 
 
+## Product Approach 
+
+The problem of this coin deposit machine is simple: "Non-Dutch users may not realize this machine will only start to interact when a user **touch the screen**."
+
+What makes everything confusing is that the small screen on top of the card slot shows various **language options**. It makes people intuitively want to **DO SOMETHING** with this keyboard, such as changing language and insert the cards right away. 
+
+If there is no options on this small screen, then Non-Dutch users would immediately thinking maybe I should use Google translation to understand what has been showing on the big touch screen and get the correct instruction.
+
+There is actually an simple temporary fix here: Add an english instructions on the touch screen to guide people to **Touch** it. The trade-off would be: 
+
+Some of users may feel frustrated to know after this instructions, there will be no instruction for the next process. However, it would still be better since that first instruction is everything to get this machine start to work. At the end of the day, people just want to see this machine **is functioning**(Literally).
+
+Actually this machine also includes a lot of intuitive instruction guide. Some little improvement would be only thing to make it perfect.
+
+
+
+
