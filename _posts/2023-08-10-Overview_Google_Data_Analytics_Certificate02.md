@@ -4,7 +4,7 @@ title: Learning experience on the Google Data Analytics Course on Coursera (Seco
 lang: en
 ---
 
-I can't believe it has been a year since I published this post:[〈Overall Feedback on the Google Data Analytics Course on Coursera (First Half)〉](https://tzling.com/2022/06/14/Google_Data_Analytics_Certificate01/)
+I can't believe it has been a year since I published this post:[〈Overall Feedback on the Google Data Analytics Course on Coursera (First Half)〉](https://tzling.com/2022/06/14/Overview_Google_Data_Analytics_Certificate01/)
 
 I received a lot of feedback and blog post traffic from that post. In fact, I had completed the 5th to 7th courses of the Google Data Analytics program. However, due to my move abroad and the intensity of the Full-time MBA courses, I had to pause the course. Part of this review has been sleeping in my drafts for a year, but now it's time to conclude it.
 
