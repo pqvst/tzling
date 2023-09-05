@@ -133,9 +133,12 @@ ChatGPT給出的翻譯，不折不扣是相反的意思，因為ChatGPT再次看
 筆者沒有打算繼續寫更多ChatGPT相關文章，不過如果有任何想法和好玩的ChatGPT測試結果，歡迎下方留言和我討論哦~希望能看到更多突破ChatGPT極限的玩法！
 
 
-(留言功能什麼時候寫得出來，就要看留言數量而定了 :P)
 
+---
+延伸部落格文章
 
+ - [〈ChatGPT 會不會取代翻譯工作〉](https://tzling.com/2022/12/12/ChatGPT_Translation_Work/)<br/>
+- [〈韓文生成式AI——Wrtn實測紀錄及ChatGPT的影響力(2023年底)〉](https://tzling.com/2023/09/04/KR_Generative_AI_Wrtn_ChatGPT_tw/)
 
 
 

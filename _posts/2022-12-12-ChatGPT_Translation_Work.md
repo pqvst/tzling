@@ -110,3 +110,10 @@ Thomas Smith
 >桌遊是這款：**[Top Ten腦洞量表](https://shop.capstone.hk/products/top-ten-chi-ver)**，原設計者為：Aurelien Picolt，是情境類派對遊戲，好玩！
 
 
+---
+
+延伸部落格文章
+
+- [〈韓文生成式AI——Wrtn實測紀錄及ChatGPT的影響力(2023年底)〉](https://tzling.com/2023/09/04/KR_Generative_AI_Wrtn_ChatGPT_tw/)
+
+-  [〈繼續玩一下ChatGPT〉](https://tzling.com/2023/02/17/ChatGPT_Translation_Work2/)
