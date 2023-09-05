@@ -4,7 +4,7 @@ title: Review of Korean Generative AI - Wrtn
 lang: en
 ---
 
-Last year, I wrote a post discussing the review of "Can ChatGPT Replace Professional Translators?" and followed up with another piece titled "A Follow-up to the ChatGPT Review." I got some response and also noticed some engaging discussions stemming from these articles.
+Last year, I wrote a post discussing "Can ChatGPT Replace Professional Translators?" and followed up with another piece titled "A Follow-up to the ChatGPT review." I got some response and also noticed some engaging discussions stemming from these articles.
 
 At that time, my main focus was on testing in Korean to understand how ChatGPT performed in languages other than English. Of course, later on, I learned that such generative AI models also require extensive training with large language datasets (LLM) beforehand. Compared to the vast amount of information available in English, ChatGPT's performance in other languages was naturally somewhat limited.
 
@@ -23,7 +23,7 @@ According to Wrtn's introduction, their AI combines GPT-4 (or optionally GPT3.5 
 Based on this technical background, when I inquired with Wrtn (on their language portal), they made it clear that they are not simply a translation tool of ChatGPT. After trying it out, I found that they were right; it feels more fluent and nature in generating Korean text compared to ChatGPT.
 
 
-Here's the translation of your text:
+
 
 ## Getting Started - Limitations of Generative AI
 
