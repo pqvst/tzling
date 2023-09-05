@@ -58,7 +58,7 @@ After considering the above limitations, I decided that my testing strategy this
 
 > PS: When writing this post, I assumed that many of readers might have at least some knowledge of Korean. I also aimed this article primarily at Korean language learners or translators, so the translations will be relatively brief. Sorry for the inconvienience and hope my elaboration is good enough to deliver how Wrtn can be applied to work.
 
-
+.
 What I was most curious about was whether Wrtn could assist in depicting and explaining the underlying meaning of the text. The Korean piece I selected in this test included a kind of metaphor, so while it could be translated literally based on the literal meaning of the words, there is no equivalent expression in Mandarin Chinese. A literal translation would lose the intended nuance, so instead of a direct translation, it might be more effective to find a common proverb or metaphor with a similar implication.
 
 > *The selected literal content is: "光想就很卑微，更不用說這是一個跨越很多橋，還有很多後患跟來的常見故事" (Transliteration: Just thinking about it feels lowly, not to mention this is a common story of crossing many bridges with many consequences.)*<br/> 
