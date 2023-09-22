@@ -135,7 +135,7 @@ Visual form (metaphor)<br/>
 
 <br/>
 
-> VS Studio 也可以用來寫Rcode! [R in Visual Studio Code] (https://code.visualstudio.com/docs/languages/r)
+> VS Studio 也可以用來寫Rcode! [R in Visual Studio Code](https://code.visualstudio.com/docs/languages/r)
 
 <br/>
 

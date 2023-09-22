@@ -32,7 +32,7 @@ title: 關於信任和信用 (Credit & Trust)
 
 <br/>
 
-> 現在常用的期望管理心法來自：[不做假設] (https://tzling.com/2023/01/01/mba-learnings-teamwork-and-no-assumptions/)
+> 現在常用的期望管理心法來自：[不做假設](https://tzling.com/2023/01/01/mba-learnings-teamwork-and-no-assumptions/)
 
 
 ---
