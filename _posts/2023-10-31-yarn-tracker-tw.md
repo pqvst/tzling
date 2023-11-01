@@ -44,7 +44,7 @@ title: 毛線紀錄工具
 ![](/assets/img/Crochet/ribbing.png)<br/> <br/>
 
 
-> 我正在練習從源頭阻斷問題的理由：![〈搬家斷捨離這回事〉](https://tzling.com/2022/07/04/The_way_I_declutter_around_my_apt/)
+> 我正在練習從源頭阻斷問題的理由：[〈搬家斷捨離這回事〉](https://tzling.com/2022/07/04/The_way_I_declutter_around_my_apt/)
 
 <br/>
 <br/>
