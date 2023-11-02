@@ -22,9 +22,21 @@ I haven't decided my next step yet, but no matter which path I choose, my footpr
 
 <br/>
 
+# As a book Translator
+
+I obtained my bachelor's degree from the Department of Japanese and the Korean Language at National Chengchi University in Taiwan. In 2013, I was fortunate to receive a full scholarship from the Korean Ministry of Education, which led me to an enriching exchange program in South Korea. Since then, my professional journey has revolved around the Korean language.
+
+Upon completing my studies, I initially pursued a career as a full-time translator. However, a series of unexpected opportunities led me into the field of business/product management and I discovered a deep passion for these fields. I made the choice to keep translation as a hobby and transitioned into part-time work. Fortunately, this shift has been quite successful, and I've been translating and proofreading books for nearly a decade.
+
+My areas of expertise lie in translating business and psychology-related content, and I've also actively contributed to corporate localization projects and business document writing.
+
+[My translated works published in Taiwan (from Korean/Japanese to Mandarin)](#翻譯作品)
+
+<br/>
+
 ---
 
-## About Me
+# About Me
 
 我常常覺得「關於我」很難寫，因為不知道怎麼在三言兩語之間好好把這樣的一個人描述清楚。在朋友眼中，我是一個無時無刻都有事情做的人，我總是在忙著什麼、學著什麼、在哪裡旅行。對於想做的事，可以的話我會在下一秒辦到。
 
@@ -57,11 +69,14 @@ I haven't decided my next step yet, but no matter which path I choose, my footpr
 
 ### 韓譯中
 
+#### 2023/11/06
+皇冠 親密陌生人：話題韓劇《安娜》原著小說
+
 #### 2023/01/17
-時報出版 一邊吃著爆米花、一邊療著傷：透過電影看見我們說不出口的心理創傷
+時報 一邊吃著爆米花、一邊療著傷：透過電影看見我們說不出口的心理創傷
 
 #### 2022/10/05
-感電出版 通膨求生：在通膨亂世中配置你的現金、股票、房地產
+感電 通膨求生：在通膨亂世中配置你的現金、股票、房地產
 
 #### 2022/04/14
 商業周刊 2030科技趨勢全解讀：元宇宙、AI、區塊鏈、雲端、大數據、5G、物聯網，七大最新科技一本就搞懂！（合譯）
