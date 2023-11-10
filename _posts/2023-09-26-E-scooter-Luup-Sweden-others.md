@@ -4,7 +4,7 @@ title: E-Scooters in Europe and Japan - Luup
 lang: en
 ---
 
-After the post[〈NEW TRANSPORTATION IN SWEDEN- E-SCOOTER TIER, LIME, AND SO ON...〉](http://localhost:4000/2022/05/23/Experience_of_Escooter_in_Sweden/), I'm still continuing my observation of E-scooter in Europe and Japan. 
+After the post[〈NEW TRANSPORTATION IN SWEDEN- E-SCOOTER TIER, LIME, AND SO ON...〉](https://tzling.com/2022/05/23/Experience_of_Escooter_in_Sweden/), I'm still continuing my observation of E-scooter in Europe and Japan. 
 
 A few months ago, during my last trip to Tokyo, I came across a massive brand campaign for **Luup** right in the heart of the city. I was quite intrigued, considering Japan's cultural tendency to avoid bothering others or making troubles to the society. I couldn't help but wonder if electric scooters had a chance of quickly gaining traction and development in Tokyo. I'm eagerly looking forward to my next visit to Tokyo when I can try them out for myself.
 
