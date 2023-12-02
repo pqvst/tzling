@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 關於信任和信用 (Credit & Trust)
+title: 關於信任和信用 (Trust & Credit)
 ---
 
 
