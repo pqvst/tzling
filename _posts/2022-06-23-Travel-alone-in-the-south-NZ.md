@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 2016 紐西蘭冬季南島獨旅
+category: 旅行
 ---
 
 ![](/assets/img/NZ/IMG_5981.JPG)

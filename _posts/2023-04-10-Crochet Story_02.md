@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 編織記事 02 
+category: 生活
 ---
 
 ![](/assets/img/Crochet/Knitting.png)<br/>

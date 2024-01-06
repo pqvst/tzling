@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 在瑞典古堡住一晚 Kronovall Manor 克羅諾瓦莊園
+category: 旅行
 ---
 
 ![](/assets/img/Kronovall_Manor/IMG_5785.JPG)

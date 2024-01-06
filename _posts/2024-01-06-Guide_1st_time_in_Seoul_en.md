@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 🇰🇷 Exploring Seoul_The Ultimate Guide for First-Time Visitors
-Category: Travel
 lang: en
+category: travel
 ---
 
 This guide is for all you spontaneous souls out there who, just like me, aren't big on travel planning, or simply don't have the time for it. My goal? To give you a snapshot of Seoul's vibrant vibe. Naturally, I might miss some of the latest hotspots, but hey, that's part of the adventure!
@@ -16,11 +16,11 @@ Google is unable to provide mapping services in Korea due to government regulati
 > For some reason, even if your phone's settings are in English, English might not be the default language there. You can follow the guide below to change the language settings.<br/>
 *1. Open the app*<br/>
 ![](/assets/img/Korea_2022/naver_map1.jpeg)<br/> 
-*2. Click on the provided link to access the settings. If you're having trouble finding the right option, try exploring each section in the settings menu until you locate the language settings. If all else fails, clicking through various sections should eventually lead you to the right place. 😊*
+*2. Click on the provided link to access the settings. If you're having trouble finding the right option, try exploring each section in the settings menu until you locate the language settings. If all else fails, clicking through various sections should eventually lead you to the right place. 😊*<br/>
 ![](/assets/img/Korea_2022/naver_map2.jpeg)<br/> 
-*3. Click 'Confirm' when you see the message 'We will reopen the app in order to change the language.*
+*3. Click 'Confirm' when you see the message 'We will reopen the app in order to change the language.*<br/>
 ![](/assets/img/Korea_2022/naver_map3.jpeg)<br/> 
-*4. Reopen the Naver Map, you're able to search now.*
+*4. Reopen the Naver Map, you're able to search now.*<br/>
 ![](/assets/img/Korea_2022/naver_map4.PNG)<br/> 
 
 
@@ -34,6 +34,8 @@ Google is unable to provide mapping services in Korea due to government regulati
 North of the Han River in Seoul, the area centered around Myeong-dong is incredibly walkable. As shown in the map, you can explore the main attractions north of the Han River on foot. Starting from Gyeongbokgung Palace in the north, passing through Myeong-dong in the lower left, and reaching Dongdaemun, it’s only about a 5-6 kilometer journey. Along the way, you can also check out Insadong (INSA-Dong) and Ikseon-dong. Just follow the main roads – it's super easy! And if you get tired, there’s always a subway station nearby to hop on. This whole area is perfect for a full day’s stroll to get a first taste of Korea.
 
 **Gwanghwamun-Gyeongbokgung Palace-Samcheong-dong-Insadong-Euljiro Entrance** is a route I often take with colleagues and friends who are visiting. It's a path filled with history, culture, streets to wander, and plenty of spots for snacks and coffee breaks.
+
+![](/assets/img/Korea_2022/seoulmap_tw.png)<br/> 
 
 Some places you might want to check out in downtown Seoul: 
 

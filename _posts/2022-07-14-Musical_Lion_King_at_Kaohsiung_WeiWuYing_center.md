@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 去看了高雄衛武營——獅子王音樂劇
+category: 生活
 ---
 
 ![](/assets/img/Lion_king/KH.jpg) <br/> *照片來源：寬宏藝術*

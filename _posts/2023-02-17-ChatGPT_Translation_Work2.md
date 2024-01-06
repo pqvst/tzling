@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 繼續玩一下ChatGPT
+category: 翻譯
 ---
 
 經過上一篇([《ChatGPT》會取代翻譯嗎?](https://tzling.com/2022/12/12/ChatGPT_Translation_Work/))以後就沒有再怎麼玩它了，不過歷經一個月，這個題材也竄上了熱搜，連著AI繪圖**Midjourney**一起浮上檯面。

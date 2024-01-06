@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 疫情後的韓國-2022韓國旅遊簽申請與入境管制
+category: 旅行
 ---
 
 ![](/assets/img/Korea_2022/IMG_3059.jpg)<br/>

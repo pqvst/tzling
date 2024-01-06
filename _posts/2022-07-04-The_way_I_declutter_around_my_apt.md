@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 搬家斷捨離這回事
+category: 生活
 ---
 
 I have changed the way that I declutter around my apartments.

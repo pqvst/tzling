@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 談判能讓世界變得更好——華頓商學院的情緒談判課 Bring Yourself by Mori Taheripour
+category: 工作職涯
 ---
 
 

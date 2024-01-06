@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 關於信任和信用 (Trust & Credit)
+category: 工作職涯
 ---
 
 

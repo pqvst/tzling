@@ -1,6 +1,7 @@
 ---
 layout: post
 title: ChatGPT 會不會取代翻譯工作
+category: 翻譯
 ---
 
 

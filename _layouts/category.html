@@ -3,10 +3,10 @@ layout: default
 ---
 
 <div class="category">
-  <h1>Category -- {{ page.title }}</h1>
+  <h1>{{ page.title }}</h1>
 
   <div class="posts">
-    {% for post in site.categories[page.title] %}
+    {% for post in site.categories[page.title_tw] %}
       <div class="post">
         <div class="title">
           <a href="{{ post.url }}"><h2>{{ post.title }}</h2></a>

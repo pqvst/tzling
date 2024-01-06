@@ -1,6 +1,7 @@
 ---
 layout: post
 title: MBA教我的事——Supply Chain 供應鏈•Overcooked•和日本拉麵店
+category: 產品/學習
 ---
 
 ## Ramen-Kingdom
