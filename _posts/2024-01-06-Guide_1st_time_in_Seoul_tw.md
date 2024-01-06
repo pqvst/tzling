@@ -43,42 +43,42 @@ Category: Travel
 推薦去踩點的地方：
 
 - Bukchon Hanok Village 북촌 한옥마을 (北村韓屋村)
-https://maps.app.goo.gl/ckpmeoY6TVt7uZ3n7?g_st=ic
+[📍地址](https://maps.app.goo.gl/ckpmeoY6TVt7uZ3n7?g_st=ic)
 
 - Ikseondong Hanok Village 익선동 한옥거리 （益善洞韓屋街-吃烤肉/很多老村落改建的咖啡店）
-https://maps.app.goo.gl/PjV4Jd4TnsqtMYyN8?g_st=ic
+[📍地址](https://maps.app.goo.gl/PjV4Jd4TnsqtMYyN8?g_st=ic)
 
 - Insa-dong Street 인사동거리 (仁寺洞)
-https://maps.app.goo.gl/r8iAizkaae41cK9aA?g_st=ic
+[📍地址](https://maps.app.goo.gl/r8iAizkaae41cK9aA?g_st=ic)
 
 - Namsan Octagonal Park Observatory 남산 팔각공원 전망대 (南山塔公園與展望台/建議從明洞南方的搭纜車或公車、計程車上去)
-https://maps.app.goo.gl/QSJgCYgvKv1DYKbj6?g_st=ic
+[📍地址](https://maps.app.goo.gl/QSJgCYgvKv1DYKbj6?g_st=ic)
 
 - Gyeong Bok Gung Palace 경복궁 (景福宮，如果只有時間去一個宮殿，這是必去的)
-https://maps.app.goo.gl/9qdmpri9Fx9A9zcq7?g_st=ic
+[📍地址](https://maps.app.goo.gl/9qdmpri9Fx9A9zcq7?g_st=ic)
 
 - Chang Deo Gung Palace- Changdeoggung 창덕궁 （昌德宮）
-https://maps.app.goo.gl/j1BgoGaiF6DYf5u4A?g_st=ic
+[📍地址](https://maps.app.goo.gl/j1BgoGaiF6DYf5u4A?g_st=ic)
 
 - Deoksu Gung Palace 덕수궁 (德壽宮)
-https://maps.app.goo.gl/3PhRGQ3hKBJTuEARA
+[📍地址](https://maps.app.goo.gl/3PhRGQ3hKBJTuEARA)
 
 - DDP │ Dongdaemun Design Plaza DDP 동대문디자인플라자 (主要是看建築外觀)
-https://maps.app.goo.gl/WXbGf7wza8HQRPFF6?g_st=ic
+[📍地址](https://maps.app.goo.gl/WXbGf7wza8HQRPFF6?g_st=ic)
 
 - Banpo Hangang Park 반포한강공원 （盤浦漢江公園/噴水秀、夜景）
-https://maps.app.goo.gl/xbgU9EAu6W9XvuSb7
+[📍地址](https://maps.app.goo.gl/xbgU9EAu6W9XvuSb7)
 
 漢江以南：
 
 - Lotte World Tower 롯데월드타워 （樂天塔）
-https://maps.app.goo.gl/NuS2a5aUTBXfQMNF7
+[📍地址](https://maps.app.goo.gl/NuS2a5aUTBXfQMNF7)
 
 - Seokchon East Lake 석촌호수 （石村湖/樂天塔和樂天樂園旁的湖，適合賞櫻）
-https://maps.app.goo.gl/d4ywk5zRrhDZPA7w6
+[📍地址](https://maps.app.goo.gl/d4ywk5zRrhDZPA7w6)
 
 - Starfield library seoul 별마당 도서관 (星空圖書館/重點是每年的聖誕樹，喜歡逛街這裡的整區百貨也算好逛)
-https://maps.app.goo.gl/fqM83mQduc2RBkpUA
+[📍地址](https://maps.app.goo.gl/fqM83mQduc2RBkpUA)
 
 ![](/assets/img/Korea_2022/starfieldlibrary.jpeg)<br/> 
 
@@ -87,7 +87,7 @@ https://maps.app.goo.gl/fqM83mQduc2RBkpUA
 ### 首爾近郊 
 
 - NAMI Island 남이섬 (四季皆宜，過去曾是韓劇常見景點，雖然有點退燒，但還是很值得去)
-https://maps.app.goo.gl/A4iskdxrHKb6VZF36?g_st=ic
+[📍地址](https://maps.app.goo.gl/A4iskdxrHKb6VZF36?g_st=ic)
 <br/>- 網站: [Naminara南怡島](https://namisum-en.imweb.me/35/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=7167956&t=board)
 <br/>- 交通: 搭地下鐵去加平站（Gapyeong Station/가평역）搭乘繼承車去渡輪站 
 
@@ -101,31 +101,31 @@ https://maps.app.goo.gl/A4iskdxrHKb6VZF36?g_st=ic
 ## 首爾推薦餐廳
   
 - 토속촌 삼계탕 （土俗村蔘雞湯/很多人說不是最好吃的、很盤、觀光店，但它其實有很多優勢。當然是有最好吃的，但簡單方便好點餐對不想動腦的旅行來說就是最好的。）
-https://maps.app.goo.gl/CNCxN7N7S57ENLCC7?g_st=ic
+[📍地址](https://maps.app.goo.gl/CNCxN7N7S57ENLCC7?g_st=ic)
 
 - 명동교자 본점 （明洞餃子刀削麵本店）
-https://maps.app.goo.gl/DDdsexveiKd8H6yD8?g_st=ic
+[📍地址](https://maps.app.goo.gl/DDdsexveiKd8H6yD8?g_st=ic)
 
 - 明洞火烤肉本店 
-https://maps.app.goo.gl/YEYtY4iYcTJdNhUJ8
+[📍地址](https://maps.app.goo.gl/YEYtY4iYcTJdNhUJ8)
 
 - 乙支路燒肉
-https://maps.app.goo.gl/2ZZTjqYp2LCWPJi6A?g_st=ic
+[📍地址](https://maps.app.goo.gl/2ZZTjqYp2LCWPJi6A?g_st=ic)
 
 - 벽돌집60-5 (三成站烤肉/在深巷裡面但超好吃）<br/>
 [Naver Map]
 Byeokdol Jip 60-5
 서울 강남구 테헤란로81길 60-5
-https://naver.me/F3OHHvLx
+[📍地址](https://naver.me/F3OHHvLx)
 
 - Nongmin Baegam Sundae Main 농민백암순대 본점 （農民血腸鍋）
-https://maps.app.goo.gl/LD2BNbibvkrxxrij6
+[📍地址](https://maps.app.goo.gl/LD2BNbibvkrxxrij6)
 
 - 황소곱창 （烤牛腸，愛吃內臟的真的不要錯過）
-https://maps.app.goo.gl/5GZ5NfPHKshd7YCs6?g_st=ic
+[📍地址](https://maps.app.goo.gl/5GZ5NfPHKshd7YCs6?g_st=ic)
 
 - 문배동 육칼 （文培洞牛肉湯刀削麵）
-https://maps.app.goo.gl/2mgsvuFiSYDNVdLU9
+[📍地址](https://maps.app.goo.gl/2mgsvuFiSYDNVdLU9)
 
 <br/>
 
