@@ -19,11 +19,11 @@ Category: Travel
 > 不知道為什麼，Naver Map的語言設定並沒有跟著手機設定走，所以需要先改一下，如果不會看韓文，可以參考以下截圖。（除了英文以外有簡中）<br/>
 *1. 打開Naver Map*<br/>
 ![](/assets/img/Korea_2022/naver_map1.jpeg)<br/> 
-*2. 點擊設定，設定語言（除了英文以外有簡中），不知道這個介面會不會改，如果不知道在哪裡，應該到處點一點會看到語言設定。*
+*2. 點擊設定，設定語言（除了英文以外有簡中），不知道這個介面會不會改，如果不知道在哪裡，應該到處點一點會看到語言設定。*<br/>
 ![](/assets/img/Korea_2022/naver_map2.jpeg)<br/> 
-*3. App會跳出一個視窗提醒變更語言需要重新開啟Naver Map，點擊確認*
+*3. App會跳出一個視窗提醒變更語言需要重新開啟Naver Map，點擊確認*<br/>
 ![](/assets/img/Korea_2022/naver_map3.jpeg)<br/> 
-*4. 重新開啟Naver Map即可使用*
+*4. 重新開啟Naver Map即可使用*<br/>
 ![](/assets/img/Korea_2022/naver_map4.PNG)<br/> 
 
 <br/>
