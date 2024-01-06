@@ -33,6 +33,8 @@ Google is unable to provide mapping services in Korea due to government regulati
 
 North of the Han River in Seoul, the area centered around Myeong-dong is incredibly walkable. As shown in the map, you can explore the main attractions north of the Han River on foot. Starting from Gyeongbokgung Palace in the north, passing through Myeong-dong in the lower left, and reaching Dongdaemun, it’s only about a 5-6 kilometer journey. Along the way, you can also check out Insadong (INSA-Dong) and Ikseon-dong. Just follow the main roads – it's super easy! And if you get tired, there’s always a subway station nearby to hop on. This whole area is perfect for a full day’s stroll to get a first taste of Korea.
 
+![](/assets/img/Korea_2022/seoulmap_en.png)<br/> 
+
 **Gwanghwamun-Gyeongbokgung Palace-Samcheong-dong-Insadong-Euljiro Entrance** is a route I often take with colleagues and friends who are visiting. It's a path filled with history, culture, streets to wander, and plenty of spots for snacks and coffee breaks.
 
 Some places you might want to check out in downtown Seoul: 
