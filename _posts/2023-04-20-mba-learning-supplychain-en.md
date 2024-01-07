@@ -2,6 +2,7 @@
 layout: post
 title: MBA Learning-Overcooked-Ramen Kingdom
 lang: en
+category: Product/Learning
 ---
 
 ## Ramen Kingdom

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 八卦板 瑞典門#Swedengate事件
+category: 生活
 ---
 
 昨天八卦板上有一篇[爆文](https://www.ptt.cc/bbs/Gossiping/M.1654105588.A.631.html)，引用在Reddit上的討論：「遇過最奇怪的待客狀況」，結果下面有人回了關於瑞典的特殊文化習慣，造成轟動：

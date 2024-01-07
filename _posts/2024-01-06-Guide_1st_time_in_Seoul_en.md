@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 🇰🇷 Exploring Seoul_The Ultimate Guide for First-Time Visitors
-Category: Travel
 lang: en
+category: Travel
 ---
 
 This guide is for all you spontaneous souls out there who, just like me, aren't big on travel planning, or simply don't have the time for it. My goal? To give you a snapshot of Seoul's vibrant vibe. Naturally, I might miss some of the latest hotspots, but hey, that's part of the adventure!
@@ -36,6 +36,8 @@ North of the Han River in Seoul, the area centered around Myeong-dong is incredi
 ![](/assets/img/Korea_2022/seoulmap_en.png)<br/> 
 
 **Gwanghwamun-Gyeongbokgung Palace-Samcheong-dong-Insadong-Euljiro Entrance** is a route I often take with colleagues and friends who are visiting. It's a path filled with history, culture, streets to wander, and plenty of spots for snacks and coffee breaks.
+
+![](/assets/img/Korea_2022/seoulmap_tw.png)<br/> 
 
 Some places you might want to check out in downtown Seoul: 
 

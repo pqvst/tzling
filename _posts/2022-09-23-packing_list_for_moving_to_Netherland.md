@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 荷蘭第三章——搬家到荷蘭的打包清單 (2022年版)
+category: 生活
 ---
 
 <br/>

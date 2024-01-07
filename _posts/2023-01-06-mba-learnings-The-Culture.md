@@ -1,6 +1,7 @@
 ---
 layout: post
 title: MBA教我的事——跨文化管理之二
+category: 工作職涯
 ---
 
 在上一篇[MBA教會我的事](https://tzling.com/2023/01/01/mba-learnings-teamwork-and-no-assumptions/)裡面我寫到跨文化合作可能是個假議題，我們終究要用個體的單位去看待每個人。

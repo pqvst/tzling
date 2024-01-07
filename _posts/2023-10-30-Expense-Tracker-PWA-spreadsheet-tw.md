@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 用PWA串Google Sheet做個人記帳工具——不用做Native App也可以跨iOS、Android平台
+category: 產品/學習
 ---
 
 我和P一起用過了幾個記帳系統，一開始用的是[**Settle Up**](https://settleup.io/)，這個App非常推薦給情侶、旅伴、家人使用，每筆消費都可以個別紀錄是誰付、要跟幾個人分帳。每筆輸入完以後都會自動更新當下誰欠誰錢，從此都不用擔心帳算不好會吵架。

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Amazon Japan PM 面試經驗 —— 四次！！
+category: 工作職涯
 ---
 
 在這段日子中，Amazon Japan的面試經歷對我來說是最大的轉捩點，我很幸運的拿到了三個L6資深產品經理(Sr, Product Ｍanager)、一個L5 specialist的面試機會⋯⋯

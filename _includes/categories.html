@@ -1,0 +1,44 @@
+<nav class="categories">
+  <div class="topic">Topic</div>
+  <div class="cols">
+    <div>
+      <a href="career/">
+        {% if page.lang == 'en' %}
+          Career
+        {% else %}
+          工作職涯
+        {% endif %}
+      </a>
+      <a href="product-learning/">
+        {% if page.lang == 'en' %}
+          Product/Learning
+        {% else %}
+          產品/學習
+        {% endif %}
+      </a>
+      <a href="translation/">
+        {% if page.lang == 'en' %}
+          Translation
+        {% else %}
+          翻譯
+        {% endif %}
+      </a>
+    </div>
+    <div>
+      <a href="life/">
+        {% if page.lang == 'en' %}
+          Life
+        {% else %}
+          生活
+        {% endif %}
+      </a>
+      <a href="travel/">
+        {% if page.lang == 'en' %}
+          Travel
+        {% else %}
+          旅行
+        {% endif %}
+      </a>
+    </div>
+  </div>
+</nav>

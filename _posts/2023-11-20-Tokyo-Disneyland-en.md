@@ -2,6 +2,7 @@
 layout: post
 title: Tokyo Disneyland
 lang: en
+category: Travel
 ---
 
 With an upcoming birthday and the impending farewell to Tokyo, I decided to treat myself to a lavish two-day escapade at Tokyo Disneyland and DisneySea.

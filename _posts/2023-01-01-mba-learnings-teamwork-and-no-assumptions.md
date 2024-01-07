@@ -1,6 +1,7 @@
 ---
 layout: post
 title: MBA教我的事——不做假設與跨文化合作
+category: 工作職涯
 ---
 
 ![](/assets/img/Tias/IMG_5660.jpg)

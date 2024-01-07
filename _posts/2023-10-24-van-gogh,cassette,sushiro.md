@@ -2,6 +2,7 @@
 layout: post
 title: Van Gogh's Onion Soup, Sushiro Without Conveyor Belts , and Cassette Tape Recorder
 lang: en
+category: life
 ---
 
 ## Van Gogh's Onion Soup

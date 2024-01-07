@@ -105,7 +105,7 @@ nav {
   align-items: center;
 }
 
-nav > a {
+nav a, nav .topic {
   font-family: 'Jost', sans-serif;
   font-weight: 200;
   text-transform: uppercase;
@@ -114,7 +114,7 @@ nav > a {
   letter-spacing: 5px;
 }
 
-nav > a:hover {
+nav a:hover {
   color: #36a4b0;
 }
 
@@ -136,6 +136,41 @@ nav a.lang {
 img.about {
   border-radius: 50%;
   width: 70px;
+  height: 70px;
+  object-fit: cover;
+}
+
+nav.categories {
+  border: none;
+  background: #fafafa;
+  display: block;
+}
+
+nav.categories a {
+  display: block;
+  padding: 2px 10px;
+  font-size: 0.9em;
+}
+
+nav.categories .cols {
+  display: flex;
+  align-items: start;
+}
+
+nav.categories .cols > div {
+  flex-grow: 1;
+}
+
+nav.categories .topic {
+  padding: 2px 10px;
+  font-weight: 600;
+  font-size: 1rem;
+}
+
+@media screen and (max-width: 600px) {
+  nav.categories .cols {
+    display: block;
+  }
 }
 
 /* ========================= Posts ========================= */
