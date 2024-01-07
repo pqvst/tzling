@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Days of Waiting to Reach Shore
-category: career
+category: Career
 lang: en
 ---
 

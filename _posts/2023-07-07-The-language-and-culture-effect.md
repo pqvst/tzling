@@ -2,7 +2,7 @@
 layout: post
 title: The Language & Culture Effect-How People Change Across Languages
 lang: en
-category: product/learning
+category: Product/Learning
 ---
 
 

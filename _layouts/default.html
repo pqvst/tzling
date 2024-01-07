@@ -23,7 +23,7 @@
 
     <header>
       <a href="/">
-        <img src="/assets/img/header2.jpg" />
+        <img src="/assets/img/header3.jpg" />
       </a>
     </header>
     
@@ -32,8 +32,11 @@
       {% if page.lang != 'en' %}<a class="lang" href="/en/">ENG</a>{% endif %}
       {% if page.lang == 'en' %}<a class="lang" href="/">中文</a>{% endif %}
       <a href="/about/" {% if page.url == '/about/' %}class="active"{% endif %}>About</a>
-      <a href="/travel/">Travel</a>
     </nav>
+
+    {% if page.path != 'about.md' %}
+      {% include categories.html %}
+    {% endif %}
 
     <div class="wrap">
       <main>{{content}}</main>
@@ -41,7 +44,7 @@
 
     <footer>
       <div class="copyright">
-          Copyright &copy; {{ site.time | date: '%Y' }} 黃子玲 Tzu-Ling Huang 🇹🇼
+        Copyright &copy; {{ site.time | date: '%Y' }} 黃子玲 Tzu-Ling Huang 🇹🇼
       </div>
     </footer>
 

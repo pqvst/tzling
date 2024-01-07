@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Google Data Analytics 值不值得上——上半場回顧 (Course1-4)
-category: product/learning
+category: Product/Learning
 ---
 
 這篇貼文主要內容是分享Google Data Analytics的上課心得(Google數據分析課)，內容包含前四堂課和課程形式的分享。

@@ -2,7 +2,7 @@
 layout: post
 title: Packed like sardines in Yamanoteline
 lang: en
-category: life
+category: Life
 ---
 
 The Yamanote Line during rush hour is quite an experience. It's hard to grasp the metaphor of being "packed like sardines," especially when you've never seen sardines served uncut. (Me, neither)

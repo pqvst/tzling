@@ -2,7 +2,7 @@
 layout: post
 title: The Yarn Tracker (PWA instead of native app)
 lang: en
-category: career
+category: Career
 ---
 
 I made a yarn tracker by progressive web application. 

@@ -2,7 +2,7 @@
 layout: post
 title: 🇰🇷 Exploring Seoul_The Ultimate Guide for First-Time Visitors
 lang: en
-category: travel
+category: Travel
 ---
 
 This guide is for all you spontaneous souls out there who, just like me, aren't big on travel planning, or simply don't have the time for it. My goal? To give you a snapshot of Seoul's vibrant vibe. Naturally, I might miss some of the latest hotspots, but hey, that's part of the adventure!

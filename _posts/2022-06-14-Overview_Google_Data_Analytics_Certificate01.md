@@ -2,7 +2,7 @@
 layout: post
 title: Learning experience on the Google Data Analytics Course on Coursera (First Half)
 lang: en
-category: product/learning
+category: Product/Learning
 ---
 
 This post if about my personal feedback of Google Data Analytics Course from the 1st to 4th classes.
