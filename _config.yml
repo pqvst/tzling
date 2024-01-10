@@ -10,7 +10,7 @@ theme: null
 kramdown:
   auto_ids: true
 
-permalink: /:year/:month/:day/:title
+permalink: /:year/:month/:day/:title/
 
 plugins:
   - jekyll-seo-tag
