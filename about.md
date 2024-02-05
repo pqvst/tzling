@@ -69,6 +69,9 @@ My areas of expertise lie in translating business and psychology-related content
 
 ### 韓譯中
 
+#### 2024/02/02 
+天下雜誌 AI生成時代的工作革命：洞悉開始自主學習的AI將引爆的連續變革，在企業壽命縮短的大趨勢下提早掌握延長個人職涯的邏輯、能力與策略
+
 #### 2023/11/06
 皇冠 親密陌生人：話題韓劇《安娜》原著小說
 
