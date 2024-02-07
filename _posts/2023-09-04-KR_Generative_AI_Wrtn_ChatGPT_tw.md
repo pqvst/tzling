@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 韓文生成式AI——Wrtn實測紀錄及ChatGPT的影響力(2023年底)
+category: 產品/學習
 ---
 
 這篇文章將分成兩個部分：

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 大家都要去一次里斯本
+category: 旅行
 ---
 
 2023年5月。

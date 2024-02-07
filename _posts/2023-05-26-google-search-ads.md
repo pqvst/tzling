@@ -2,6 +2,7 @@
 layout: post
 title: Why do we still use Google Search Ads to increase the discoverability of our SaaS products? 
 lang: en
+category: Product-learning
 ---
 
 I understand that many people may have hesitations about continuing to use Google Search Ads for their startup projects. In light of this, I'd like to share some insights I have gained from my recent experiences with Google Ads.

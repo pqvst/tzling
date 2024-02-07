@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 語言和文化會不會改變一個人的個性?
+category: 產品/學習
 ---
 
 ![](/assets/img/shibuya.png)<br/>

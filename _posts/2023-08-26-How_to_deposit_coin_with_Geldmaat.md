@@ -2,6 +2,7 @@
 layout: post
 title: How to deposit coin with Geldmaat?
 lang: en
+category: Product-learning
 ---
 
 ![](/assets/img/NL_Life/gelmmat_street.JPG)<br/>

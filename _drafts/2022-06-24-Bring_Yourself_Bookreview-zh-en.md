@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Negotiate Fearlessly——'Bring Yourself' by Mori Taheripour
-category: product/learning
+category: Product/learning
 ---
 
 

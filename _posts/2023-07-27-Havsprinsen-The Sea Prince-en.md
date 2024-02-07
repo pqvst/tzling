@@ -2,6 +2,7 @@
 layout: post
 title: Havsprinsen-The Sea Prince at Malmö
 lang: en
+category: Travel
 ---
 
 

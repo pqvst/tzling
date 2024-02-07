@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Havsprinsen-和哥本哈根小美人魚相望的馬爾默海王子
+category: 旅行
 ---
 
 ![](/assets/img/Havsprinsen/havsprinsen.JPG)<br/>

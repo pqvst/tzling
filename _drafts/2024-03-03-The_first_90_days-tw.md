@@ -1,15 +1,16 @@
 ---
 layout: post
 title: The First 90 Days...《前90天》閱讀筆記
+category: 工作職涯
 ---
 
-## 突破損益兩平（Reaching the Break-even Point)
+## 突破損益兩平（Reaching the Break-even Point）
 
 剛到職的1-3個月可能都還在消耗價值，一直到第四個月開始才能開始給出貢獻，到第六個月才能把先前消耗的價值坑補起來。受訪的200個外聘或被升遷的領袖中，平均說達到損益兩平的時間是6.2個月。
 
 **常見的陷阱**<br/>
 - 堅持已知的：認為過去的做法最棒<br/>
-- 淪為「勢在必行(action imperative」的犧牲品：求好心切、急於表現<br/>
+- 淪為「勢在必行(action imperative）」的犧牲品：求好心切、急於表現<br/>
 - 設定不實際的期望:自己的期望和老闆或同儕不一致<br/>
 - 想做太多了：多頭馬車<br/>
 - 太多定見 (Coming in with "the" answer)：對所有事情都下結論太快<br/>

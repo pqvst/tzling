@@ -2,6 +2,7 @@
 layout: post
 title: E-Scooters in Europe and Japan - Luup
 lang: en
+category: Product-learning
 ---
 
 After the post[〈NEW TRANSPORTATION IN SWEDEN- E-SCOOTER TIER, LIME, AND SO ON...〉](https://tzling.com/2022/05/23/Experience_of_Escooter_in_Sweden/), I'm still continuing my observation of E-scooter in Europe and Japan. 

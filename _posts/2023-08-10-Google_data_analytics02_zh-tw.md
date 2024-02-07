@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Google Data Analytics 值不值得上——下半場回顧 (Course5-8) + 總結
+category: 產品/學習
 ---
 
 距離上次寫完這篇[〈GOOGLE DATA ANALYTICS 值不值得上——上半場回顧 (COURSE1-4)〉](https://tzling.com/2022/06/14/About-Google_Data_Analytics01_zh-tw/)居然已經過了一年多。

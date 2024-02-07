@@ -2,6 +2,7 @@
 layout: post
 title: Review of Korean Generative AI - Wrtn
 lang: en
+category: Product-learning
 ---
 
 Last year, I wrote a post discussing "Can ChatGPT Replace Professional Translators?" and followed up with another piece titled "A Follow-up to the ChatGPT review." I got some response and also noticed some engaging discussions stemming from these articles.

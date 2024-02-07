@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 荷蘭開戶推薦·怎麼存現金(歐元)到荷蘭銀行帳戶？
+category: 產品/學習
 ---
 
 ![](/assets/img/NL_Life/gelmmat_street.JPG)<br/>

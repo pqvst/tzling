@@ -2,6 +2,7 @@
 layout: post
 title: New Transportation in Sweden- E-Scooter TIER, LIME, and so on...
 lang: en
+category: Product-learning
 ---
 
 First of all, I was hesitating to name the title of this post like this, because, in reality, this personal blog has been around for four or five years, not exactly new. But when I think about the three years we lost due to the pandemic starting from 2020, and then subtract the time for the warm-up period of the new venture, which is about two years, E-scooters seems relatively new, at least for me.
