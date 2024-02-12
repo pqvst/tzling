@@ -7,4 +7,14 @@
   <label>Message</label>
   <textarea name="message" required></textarea>
   <button type="submit">Send</button>
+  <input type="hidden" id="captchaResponse" name="g-recaptcha-response">
+  <input type="hidden" name="_gotcha" style="display:none !important">
+  <script>
+    grecaptcha.ready(function() {
+        grecaptcha.execute('6LeHjm8pAAAAAPQvhyaXByAgDCcUKHDo3uDlwp-M', {action: 'homepage'})
+        .then(function(token) {
+          document.getElementById('captchaResponse').value = token;
+        });
+      });
+ </script>
 </form>
