@@ -8,13 +8,17 @@ title: About Me
 
 # About Me - Chloe H. Bergqvist
 
-I often feel that writing an "About Me" section is challenging because it's not easy to describe a person like myself in just a few words. In the eyes of my friends, I'm someone who is always busy, constantly engaged in various activities, learning something new, or traveling somewhere  (spontaneously!). If there's something I want to do, I tend to make it happen in the blink of an eye.
+Writing an "About Me" feels tough. It's hard to pin down everything I am in just a few sentences. To my friends, I'm the one who's always on the move, picking up new hobbies, motivated by a sudden insight, and jumping into projects headfirst.
 
-One day, I had a sudden idea to start a blog. I sketched the framework of the blog on paper within five minutes and spent another half an hour creating the first version of the homepage image on Procreate. The website began as a minimum viable product just like the others, so you'll see many traces of revisions, occasional bugs, and perhaps some scars from the occasional layout mishaps. I'm also experimenting with various plugins, just like I am in real life—an ever-evolving, ever-changing character.
+One day, on a whim, I decided to start a blog. Within minutes, I had the outline sketched on paper, and in no time, I'd created a homepage image on Procreate. Like everything I do, the website began as a basic concept and evolved over time, marked by updates, fixes, and changes—much like me, always growing and experimenting.
 
-As for who I am now, it's still hard to categorize the roles I play. I am a digital product manager who entered the field midway, managing and designing SaaS platforms like [Ontally](https://ontally.com/), [Instant Rental Alert](https://instantrentalalerts.nl/)，[Cafe and Cowork](https://cafeandcowork.com/) that I co-created with Philip. I'm a knitting and crochet creator, a translator, and a graduate of a Dutch MBA program. Among all the things I enjoy, the most satisfying is creating useful things, finding meaning and value in products, and ensuring they endure for the long term.
+Currently, I wear many hats. I'm a digital product manager who's ventured into managing and designing projects like [Ljusväg✨](https://ljusvag.com/)- an AI powered Tarot Reader, and various SaaS products ([Ontally](https://ontally.com/), [Instant Rental Alert](https://instantrentalalerts.nl/)，[Cafe and Cowork](https://cafeandcowork.com/) alongside Philip. 
 
-I haven't decided my next step yet, but no matter which path I choose, my footprints will always be here :)
+Beyond the digital, I find joy in knitting, crochet, translating.Creating things that last and finding meaning in what I do gives me the greatest joy.
+
+I'm not sure what's next, but I'm leaving a trail behind me no matter where I go.
+
+
 
 <a href="https://www.linkedin.com/in/chloe-huang900/" target="_blank">
   <i class="fa fa-linkedin-square" />
@@ -22,7 +26,7 @@ I haven't decided my next step yet, but no matter which path I choose, my footpr
 
 <br/>
 
-# As a book Translator
+### Beyond Words: My Journey in Book Translation
 
 I obtained my bachelor's degree from the Department of Japanese and the Korean Language at National Chengchi University in Taiwan. In 2013, I was fortunate to receive a full scholarship from the Korean Ministry of Education, which led me to an enriching exchange program in South Korea. Since then, my professional journey has revolved around the Korean language.
 
@@ -43,7 +47,7 @@ My areas of expertise lie in translating business and psychology-related content
 有一天，我突然想開部落格，我用五分鐘在紙上畫了部落格框架，又花了半小時在procreate上畫了第一版首頁圖。這是一個從最簡可行產品出發的網站，在這裡會看到很多修正的痕跡、時不時有些bug，也可能在偶然之間出現一些破版面的瘡疤，還在嘗試著各種不同的外掛，這就跟我自己一樣，是一個無限增生變形的特殊角色。
 
 
-現在的我，依然很難歸類我扮演著什麼角色，我是一個半路出家的數位產品經理，管理和設計我和P一起創作的SaaS平台——[Ontally](https://ontally.com/), [Instant Rental Alert](https://instantrentalalerts.nl/)，[Cafe and Cowork](https://cafeandcowork.com/)————是一個編織創作者；是一個譯者；也是一個荷蘭MBA畢業生。綜觀所有我最喜歡的事，大概就是創作有用的東西出來、找到產品的意義和價值，並讓產品走得長久。
+現在的我，依然很難歸類我扮演著什麼角色，我是一個半路出家的數位產品經理，管理和設計我自己發想的AI產品[光途塔羅 Ljusväg✨](https://ljusvag.com/)，以及和P一起創作的SaaS平台——[Ontally](https://ontally.com/), [Instant Rental Alert](https://instantrentalalerts.nl/)，[Cafe and Cowork](https://cafeandcowork.com/)————是一個編織創作者；是一個譯者；也是一個荷蘭MBA畢業生。綜觀所有我最喜歡的事，大概就是創作有用的東西出來、找到產品的意義和價值，並讓產品走得長久。
 
 我還沒決定我的下一步，但是無論往哪一步走，這裡都會有我的足跡 :)
 
@@ -58,7 +62,7 @@ My areas of expertise lie in translating business and psychology-related content
 
 ---
 
-## 作為譯者的我 - 黃子玲
+### 作為譯者的我 - 黃子玲
 
 政大日文系/韓文輔系畢，2013年的時候意外獲得韓國教育部獎學金去了韓國交換，在那之後就一直做著和韓文相關的工作。剛畢業的時候曾經以身為全職譯者為職志，後來陰錯陽差開啟了商務相關的職涯，運用業餘時間譯書、審書至今。較擅長商務及心理學類翻譯，也參與企業在地化專案與商務文案編寫。
 
