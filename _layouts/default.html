@@ -28,12 +28,32 @@
       </a>
     </header>
     
-    <nav>
+   <!---- <nav>
       <a href="/{% if page.lang == 'en' %}en/{% endif %}" {% if page.url == '/' %}class="active"{% endif %}>Blog</a>
       {% if page.lang != 'en' %}<a class="lang" href="/en/">ENG</a>{% endif %}
       {% if page.lang == 'en' %}<a class="lang" href="/">中文</a>{% endif %}
       <a href="/about/" {% if page.url == '/about/' %}class="active"{% endif %}>About</a>
     </nav>
+  -->
+  <nav>
+    <div class="nav-links">
+      <a href="/{% if page.lang == 'en' %}en/{% endif %}" {% if page.url == '/' or page.url == '/en/' %}class="active"{% endif %}>Blog</a>
+      <a href="/{% if page.lang == 'en' %}en/{% endif %}about/" {% if page.url contains '/about/' %}class="active"{% endif %}>About</a>
+    </div>
+    {% if page.lang != 'en' %}
+      <a class="lang" href="/en/" data-full="English" data-short="EN">
+        <span class="full-text">English</span>
+        <span class="short-text">EN</span>
+      </a>
+    {% else %}
+      <a class="lang" href="/" data-full="繁體中文" data-short="中">
+        <span class="full-text">繁體中文</span>
+        <span class="short-text">中</span>
+      </a>
+    {% endif %}
+  </nav>
+
+  <!--以下不要變更 -->
 
     {% if page.path != 'about.md' %}
       {% include categories.html %}

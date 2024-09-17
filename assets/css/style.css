@@ -1,4 +1,3 @@
-
 html, body {
   height: 100%;
 }
@@ -96,13 +95,28 @@ header {
 
 nav {
   display: flex;
+  justify-content: space-between; /* This will push items to the edges */
+  align-items: center;
   border-top: solid 1px #ccc;
   border-bottom: solid 1px #ccc;
   padding: 10px 20px;
   margin-bottom: 50px;
   max-width: 700px;
   margin: 0 auto;
+}
+
+/* Create a new container for non-lang links */
+.nav-links {
+  display: flex;
   align-items: center;
+}
+
+nav a:not(.lang) {
+  margin-right: 20px; /* Space between nav items */
+}
+
+nav a.lang {
+  margin-left: auto; /* This pushes the lang switcher to the right */
 }
 
 nav a, nav .topic {
@@ -128,7 +142,6 @@ nav a.lang {
   letter-spacing: normal;
   font-weight: 600;
   background-color: rgb(201, 223, 230);
-  margin-right: 20px;
   color: rgb(14, 103, 141);
   line-height: normal;
 }
@@ -400,4 +413,34 @@ h6:hover .anchor {
   margin-top: 2px;
   color: rgb(0,0,0,0.3);
   font-size: 0.8em
+}
+
+<!--以下是測試的cursor style-->
+
+nav a.lang {
+  margin-left: auto;
+  margin-right: 0px;
+}
+nav a:not(.lang) {
+  margin-right: 20px; /* 為非語言切換按鈕的導航項添加右邊距 */
+}
+
+/* 如果您想要為語言切換按鈕添加一些特殊樣式，可以在這裡添加 */
+nav a.lang {
+  color: #fffffff7; /* 白色文字 */
+  background-color: #089eb99e; /* 藍色背景 */
+  border: none;
+  padding: 8px 15px;
+  border-radius: 5px;
+  text-decoration:none;
+}
+
+nav a.lang:hover {
+  background-color: #0066cc;
+}
+.lang .short-text { display: none; }
+
+@media (max-width: 500px) {
+  .lang .full-text { display: none; }
+  .lang .short-text { display: inline; }
 }
