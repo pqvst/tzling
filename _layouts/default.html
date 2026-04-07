@@ -38,7 +38,7 @@
   <nav>
     <div class="nav-links">
       <a href="/{% if page.lang == 'en' %}en/{% endif %}" {% if page.url == '/' or page.url == '/en/' %}class="active"{% endif %}>Blog</a>
-      <a href="/{% if page.lang == 'en' %}en/{% endif %}about/" {% if page.url contains '/about/' %}class="active"{% endif %}>About</a>
+      <a href="/about/" {% if page.url contains '/about/' %}class="active"{% endif %}>About</a>
     </div>
     {% if page.lang != 'en' %}
       <a class="lang" href="/en/" data-full="English" data-short="EN">

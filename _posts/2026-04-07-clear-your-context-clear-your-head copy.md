@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Claude Code Clears Your Context, Your Mind — and Obsidian
+lang: en
 category: Product / Learning
 ---
 
