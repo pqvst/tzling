@@ -82,3 +82,4 @@ Note: EN post requires `lang: en`. ZH post does not have a `lang` field (the sit
 - **Category must match exactly.** Don't use `Product / Learning` (with spaces) or `Product-learning` — use `Product/Learning`. Don't use `工作/職涯` — use `工作職涯`.
 - **Ask before destructive actions** — never delete the source draft without confirmation.
 - **Use Write, not Bash echo/cat**, for creating the post files.
+- **Avoid markdown tables.** The site's renderer doesn't display tables well. If the source draft has tables, convert them to nested bullet lists (group label as the outer bullet, each row's contents as sub-bullets).
