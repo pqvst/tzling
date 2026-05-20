@@ -43,6 +43,19 @@ But the point isn't the technical detail — it's this: **the evaluation tasks w
 
 In other words, even with the field's SOTA method, "will users do something they've never done before?" remains an open question. My 20-point gap isn't because the setup was crude — it's because **no one has cracked this part yet.**
 
+### So Why Not Just Tell the LLM "People Are Lazy"?
+
+Writing that, I had to address the obvious question: if we already know the LLM is optimistic about novel behaviors, why not just preload "people are lazy" into the prompt?
+
+I considered it, and the answer is that it over-corrects. "People are lazy" pushes the LLM to deflate every prediction uniformly — C1, the one we already got reasonably right, gets dragged down along with everything else, and the part that was working stops working. "Lazy" is also too vague to verify: in a different domain next time, you have no way to tell whether the prior was applied correctly or not.
+
+A more workable patch is to decompose "lazy" into two priors that can be tested independently and fed into the prompt:
+
+- **Activation energy.** The default for any new behavior is "don't." Doing it has to overcome attentional and inertial cost. Give the LLM an anchor directly: "Organic completion rates for new challenges in this product historically sit around 2–5%. Treat that as the floor."
+- **Stated vs. revealed gap.** Personas asked "would you do this?" carry social desirability bias. Ask the LLM to discount its self-reported number by ~30% before returning it, to simulate the gap between saying yes and actually doing it.
+
+I haven't re-run the experiment to verify whether these two priors would actually drag C2 from 25% to 5%, so this is hypothesis, not finding. But compared to a one-line "people are lazy" patch, decomposing laziness into activation energy and a stated/revealed gap at least gives you two independent mechanisms to test one at a time.
+
 ### What Actually Matters in LLM Virtual Surveys
 
 So, two things I'm carrying out of this:
