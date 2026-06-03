@@ -34,5 +34,9 @@ defaults:
       path: "assets"
     values:
       image: true
+  - scope:
+      path: ""
+    values:
+      image: /assets/img/Chloe_ai_log.jpg
 
 future: true

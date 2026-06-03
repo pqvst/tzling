@@ -9,7 +9,7 @@
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Jost:wght@200&display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Jost:wght@200;300;500&display=swap">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/modern-normalize/0.5.0/modern-normalize.min.css">
     <link rel="stylesheet" href="/assets/css/style.css">
@@ -22,36 +22,15 @@
   </head>
   <body>
 
-    <header>
-      <a href="/">
-        <img src="/assets/img/header3.jpg" />
-      </a>
+    <header class="topbar">
+      <a class="topbar-mark" href="/{% if page.lang == 'en' %}en/{% endif %}">tzling</a>
+      <nav class="topbar-nav">
+        <a href="/about/" {% if page.url contains '/about/' %}class="active"{% endif %}>{% if page.lang == 'en' %}About{% else %}關於{% endif %}</a>
+        <span class="topbar-lang">
+          <a href="/" class="{% unless page.lang == 'en' %}active{% endunless %}">中</a><span>/</span><a href="/en/" class="{% if page.lang == 'en' %}active{% endif %}">EN</a>
+        </span>
+      </nav>
     </header>
-    
-   <!---- <nav>
-      <a href="/{% if page.lang == 'en' %}en/{% endif %}" {% if page.url == '/' %}class="active"{% endif %}>Blog</a>
-      {% if page.lang != 'en' %}<a class="lang" href="/en/">ENG</a>{% endif %}
-      {% if page.lang == 'en' %}<a class="lang" href="/">中文</a>{% endif %}
-      <a href="/about/" {% if page.url == '/about/' %}class="active"{% endif %}>About</a>
-    </nav>
-  -->
-  <nav>
-    <div class="nav-links">
-      <a href="/{% if page.lang == 'en' %}en/{% endif %}" {% if page.url == '/' or page.url == '/en/' %}class="active"{% endif %}>Blog</a>
-      <a href="/about/" {% if page.url contains '/about/' %}class="active"{% endif %}>About</a>
-    </div>
-    {% if page.lang != 'en' %}
-      <a class="lang" href="/en/" data-full="English" data-short="EN">
-        <span class="full-text">English</span>
-        <span class="short-text">EN</span>
-      </a>
-    {% else %}
-      <a class="lang" href="/" data-full="繁體中文" data-short="中">
-        <span class="full-text">繁體中文</span>
-        <span class="short-text">中</span>
-      </a>
-    {% endif %}
-  </nav>
 
   <!--以下不要變更 -->
 
@@ -65,7 +44,7 @@
 
     <footer>
       <div class="copyright">
-        Copyright &copy; {{ site.time | date: '%Y' }} 黃子玲 Tzu-Ling Huang 🇹🇼
+        Copyright &copy; {{ site.time | date: '%Y' }} Chloe &amp; Tzuling 🇹🇼
       </div>
     </footer>
 
