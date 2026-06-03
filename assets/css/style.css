@@ -9,6 +9,7 @@ body {
   font-size: 16pt;
   font-weight: 300;
   margin: 0;
+  background: #f7f5f1;
 }
 
 @media screen and (max-width: 600px) {
@@ -443,4 +444,581 @@ nav a.lang:hover {
 @media (max-width: 500px) {
   .lang .full-text { display: none; }
   .lang .short-text { display: inline; }
+}
+
+/* ========================= 首頁 mask 入口 (home layout) ========================= */
+
+.home-body {
+  margin: 0;
+  background: #f7f5f1;
+  color: #2c2c2c;
+}
+
+/* 頂列：站名 + 語言 */
+.home-top {
+  position: fixed;
+  top: 0; left: 0; right: 0;
+  z-index: 5;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 18px 26px;
+  pointer-events: none;
+}
+.home-top a { pointer-events: auto; text-decoration: none; }
+.home-mark {
+  font-family: 'Jost', sans-serif;
+  font-weight: 300;
+  letter-spacing: 6px;
+  text-transform: lowercase;
+  font-size: 1.1rem;
+  color: #2c2c2c;
+  mix-blend-mode: multiply;
+}
+.home-lang {
+  font-family: 'Jost', sans-serif;
+  font-weight: 300;
+  font-size: 0.85rem;
+  letter-spacing: 2px;
+  color: #6b6b6b;
+}
+.home-lang span { margin: 0 4px; opacity: 0.4; }
+.home-lang a { color: #8a8a8a; }
+.home-lang a.active { color: #2c2c2c; font-weight: 500; }
+
+/* 舞台 */
+.mask-stage {
+  position: relative;
+  height: 100vh;
+  min-height: 560px;
+  overflow: hidden;
+}
+
+/* ---- 面具（公仔吸塑）---- */
+.cover {
+  position: absolute;
+  inset: 0;
+  z-index: 3;
+  display: flex;
+  transition: transform 0.85s cubic-bezier(.7,0,.2,1), opacity 0.6s ease;
+  background: #f2efe9;
+}
+.cover-half {
+  position: relative;
+  flex: 1 1 50%;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  cursor: pointer;
+  transition: flex-basis 0.6s ease, background 0.5s ease;
+}
+.cover-left  { background: linear-gradient(160deg, rgba(74,138,158,.10), rgba(36,80,110,.20)); }
+.cover-right { background: linear-gradient(200deg, rgba(243,178,110,.14), rgba(236,150,120,.22)); }
+.cover-half:hover { flex-basis: 56%; }
+.cover-left:hover  { background: linear-gradient(160deg, rgba(74,138,158,.18), rgba(36,80,110,.30)); }
+.cover-right:hover { background: linear-gradient(200deg, rgba(243,178,110,.24), rgba(236,150,120,.34)); }
+
+.cover-label {
+  position: relative;
+  z-index: 4;
+  text-align: center;
+  padding-bottom: 5vh;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  transition: transform 0.4s ease;
+}
+.cover-half:hover .cover-label { transform: translateY(-6px); }
+.cl-zh {
+  font-size: 1.9rem;
+  font-weight: 500;
+  letter-spacing: 6px;
+  color: #2c2c2c;
+}
+.cl-name {
+  font-family: 'Jost', sans-serif;
+  font-weight: 400;
+  letter-spacing: 2px;
+  font-size: 1.5rem;
+  color: #2c2c2c;
+}
+.cl-sub {
+  font-family: 'Jost', sans-serif;
+  font-size: 0.72rem;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  color: #8a8a8a;
+  margin-top: 3px;
+}
+.cl-arrow {
+  font-family: 'Jost', sans-serif;
+  font-size: 0.72rem;
+  letter-spacing: 2px;
+  color: #999;
+  margin-top: 6px;
+  opacity: 0;
+  transition: opacity 0.35s ease;
+}
+.cover-half:hover .cl-arrow { opacity: 1; }
+
+.cover-figure {
+  position: absolute;
+  left: 50%;
+  top: 45%;
+  transform: translate(-50%, -50%);
+  height: min(62vh, 540px);
+  width: auto;
+  z-index: 3;
+  pointer-events: none;
+  filter: drop-shadow(0 24px 50px rgba(40,40,60,.18));
+  mix-blend-mode: multiply;
+}
+.cover-seam {
+  position: absolute;
+  left: 50%;
+  top: 6%;
+  bottom: 6%;
+  z-index: 2;
+  border-left: 1px dashed rgba(60, 60, 70, 0.18);
+  transform: translateX(-50%);
+  pointer-events: none;
+}
+/* 折價券兩端打孔 */
+.cover-seam::before,
+.cover-seam::after {
+  content: "";
+  position: absolute;
+  left: 50%;
+  width: 9px;
+  height: 9px;
+  background: #f7f5f1;
+  border: 1px solid rgba(60, 60, 70, 0.14);
+  border-radius: 50%;
+  transform: translateX(-50%);
+}
+.cover-seam::before { top: -5px; }
+.cover-seam::after  { bottom: -5px; }
+.cover-hint {
+  position: absolute;
+  left: 50%;
+  top: 2.5%;
+  transform: translateX(-50%);
+  z-index: 5;
+  margin: 0;
+  font-family: 'Jost', sans-serif;
+  font-weight: 400;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  font-size: 0.78rem;
+  color: #4a4a4a;
+  background: #f7f5f1;
+  padding: 7px 18px;
+  border-radius: 20px;
+  box-shadow: 0 2px 12px rgba(40, 40, 60, 0.10);
+  white-space: nowrap;
+  pointer-events: none;
+  animation: hintBob 2.6s ease-in-out infinite;
+}
+@keyframes hintBob {
+  0%, 100% { transform: translateX(-50%) translateY(0); }
+  50%      { transform: translateX(-50%) translateY(4px); }
+}
+/* 桌機：兩段同一行、中點分隔 */
+.cover-hint .hint-zh::before { content: "・"; margin: 0 7px; opacity: 0.5; }
+
+/* ---- 開啟：面具滑開、世界露出 ---- */
+.open-work .cover { transform: translateX(-100%); opacity: 0; pointer-events: none; }
+.open-play .cover { transform: translateX(100%);  opacity: 0; pointer-events: none; }
+
+.worlds { position: absolute; inset: 0; z-index: 1; }
+.world {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.7s ease 0.15s, transform 0.7s cubic-bezier(.2,.7,.2,1) 0.15s;
+}
+.world-work { transform: translateX(40px); background: linear-gradient(135deg, #eef3f5, #dfe9ed); }
+.world-play { transform: translateX(-40px); background: linear-gradient(135deg, #f7efe4, #f3e3d4); }
+.open-work .world-work,
+.open-play .world-play {
+  opacity: 1;
+  visibility: visible;
+  transform: translateX(0);
+}
+
+.world-inner {
+  max-width: 540px;
+  padding: 30px;
+  text-align: center;
+}
+.world-kicker {
+  font-family: 'Jost', sans-serif;
+  letter-spacing: 4px;
+  font-size: 0.85rem;
+  color: #7a7a7a;
+  margin: 0 0 6px;
+}
+.world-h {
+  font-family: 'Jost', sans-serif;
+  font-size: 2.1rem;
+  letter-spacing: 2px;
+  margin: 0;
+  font-weight: 500;
+  text-transform: none;
+}
+.world-sub { color: #6b6b6b; margin: 8px 0 22px; letter-spacing: 1px; }
+.world-cats {
+  display: flex;
+  gap: 14px;
+  justify-content: center;
+  margin-bottom: 26px;
+}
+.world-cats a {
+  font-family: 'Jost', sans-serif;
+  letter-spacing: 2px;
+  font-size: 0.8rem;
+  text-decoration: none;
+  color: #3a3a3a;
+  border: 1px solid rgba(0,0,0,.18);
+  border-radius: 20px;
+  padding: 6px 16px;
+  transition: all 0.25s ease;
+}
+.world-cats a:hover { background: rgba(0,0,0,.05); border-color: rgba(0,0,0,.4); }
+
+.world-posts { display: flex; flex-direction: column; gap: 2px; text-align: left; }
+.hpost {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 14px;
+  text-decoration: none;
+  color: #333;
+  padding: 9px 6px;
+  border-bottom: 1px solid rgba(0,0,0,.07);
+  transition: padding 0.2s ease, color 0.2s ease;
+}
+.hpost:hover { padding-left: 14px; color: #000; }
+.hpost-t { font-size: 0.98rem; line-height: 1.4; }
+.hpost-d { font-family: 'Jost', sans-serif; font-size: 0.72rem; color: #999; white-space: nowrap; }
+
+.world-back {
+  position: absolute;
+  top: 26px;
+  font-family: 'Jost', sans-serif;
+  letter-spacing: 2px;
+  font-size: 0.8rem;
+  background: none;
+  border: none;
+  color: #6b6b6b;
+  cursor: pointer;
+  padding: 8px 12px;
+}
+.world-work .world-back { left: 26px; }
+.world-play .world-back { right: 26px; }
+.world-back:hover { color: #000; }
+
+/* ---- 滑下來：最新文章 ---- */
+.home-recent {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 70px 30px 20px;
+}
+.hr-title {
+  font-family: 'Jost', sans-serif;
+  font-weight: 300;
+  letter-spacing: 6px;
+  text-transform: uppercase;
+  font-size: 1rem;
+  color: #888;
+  margin-bottom: 24px;
+}
+.hr-list { display: flex; flex-direction: column; }
+.hr-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 16px;
+  text-decoration: none;
+  color: #2c2c2c;
+  padding: 13px 4px;
+  border-bottom: 1px solid #e7e3dc;
+  transition: padding 0.2s ease;
+}
+.hr-item:hover { padding-left: 10px; }
+.hr-t { font-size: 1.02rem; line-height: 1.5; }
+.hr-meta { display: flex; align-items: center; gap: 10px; white-space: nowrap; }
+.hr-cat {
+  font-size: 0.68rem;
+  letter-spacing: 1px;
+  padding: 2px 8px;
+  border-radius: 10px;
+}
+.hr-cat.is-work { background: rgba(74,138,158,.16); color: rgb(40,95,120); }
+.hr-cat.is-play { background: rgba(236,160,110,.20); color: rgb(160,90,40); }
+.hr-date { font-family: 'Jost', sans-serif; font-size: 0.72rem; color: #aaa; }
+.hr-about {
+  display: inline-block;
+  margin-top: 28px;
+  font-family: 'Jost', sans-serif;
+  letter-spacing: 2px;
+  font-size: 0.85rem;
+  color: #6b6b6b;
+  text-decoration: none;
+}
+.hr-about:hover { color: #000; }
+
+/* ---- 手機：上下堆疊、淡入取代左右滑 ---- */
+@media screen and (max-width: 640px) {
+  .cover { flex-direction: column; }
+  .cover-half { flex-basis: 50%; align-items: center; }
+  .cover-half:hover { flex-basis: 50%; }
+  .cover-left  { align-items: flex-start; }
+  .cover-right { align-items: flex-end; }
+  .cover-label { padding: 3vh 0; }
+  .cl-zh { font-size: 1.5rem; }
+  .cover-figure { height: 52vh; opacity: 0.5; }
+  .cover-seam { display: none; }
+  .open-work .cover, .open-play .cover { transform: none; opacity: 0; }
+  .world-work, .world-play { transform: none; }
+  .world-h { font-size: 1.9rem; letter-spacing: 5px; }
+}
+/* ========================= 內頁細頂列 (取代舊大 banner，與首頁一致) ========================= */
+
+.topbar {
+  max-width: 740px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 22px 30px 18px;
+  border: none;
+  border-radius: 0;
+  overflow: visible;
+}
+.topbar-mark {
+  font-family: 'Jost', sans-serif;
+  font-weight: 300;
+  letter-spacing: 6px;
+  text-transform: lowercase;
+  font-size: 1.15rem;
+  color: #2c2c2c;
+  text-decoration: none;
+}
+.topbar-nav {
+  display: flex;
+  align-items: center;
+  gap: 22px;
+}
+.topbar-nav > a {
+  font-family: 'Jost', sans-serif;
+  font-weight: 300;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  font-size: 0.82rem;
+  color: #6b6b6b;
+  text-decoration: none;
+}
+.topbar-nav > a:hover,
+.topbar-nav > a.active { color: #2c2c2c; }
+.topbar-lang {
+  font-family: 'Jost', sans-serif;
+  font-weight: 300;
+  font-size: 0.82rem;
+  letter-spacing: 2px;
+}
+.topbar-lang a { color: #aaa; text-decoration: none; }
+.topbar-lang a.active { color: #2c2c2c; font-weight: 500; }
+.topbar-lang span { margin: 0 3px; opacity: 0.4; }
+
+/* 內頁分類列：降噪、貼合米色 */
+nav.categories { background: transparent; margin-bottom: 40px; }
+
+/* ========================= 首頁手繪 banner 轉場 ========================= */
+
+.home-banner {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 80px 30px 0;
+  text-align: center;
+}
+.home-banner img {
+  width: 100%;
+  max-width: 640px;
+  height: auto;
+  /* 水彩邊緣不規則，不框、讓它在米色上自然暈開 */
+  mix-blend-mode: multiply;
+}
+
+@media screen and (max-width: 600px) {
+  .topbar { padding: 16px 20px; }
+  .topbar-nav { gap: 14px; }
+  .home-banner { padding-top: 50px; }
+}
+
+/* ========================= 首頁 journal 區（手繪招牌 + 最新文章綁一起） ========================= */
+
+.home-journal {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 96px 30px 10px;
+  position: relative;
+}
+/* 從面具滑下來、進讀字區之間，一條極淡的分隔，讓轉場是「刻意的」而非突兀 */
+.home-journal::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 40px;
+  height: 1px;
+  background: rgba(0,0,0,.18);
+}
+.journal-sign {
+  display: block;
+  width: 100%;
+  max-width: 380px;
+  margin: 0 auto 6px;
+  mix-blend-mode: multiply;
+}
+.home-journal .home-recent {
+  max-width: none;
+  margin: 0;
+  padding: 0;
+}
+
+@media screen and (max-width: 600px) {
+  .home-journal { padding-top: 64px; }
+  .journal-sign { max-width: 300px; }
+}
+
+/* ========================= 手機：pick a side 移到正中央 ========================= */
+
+@media screen and (max-width: 640px) {
+  .cover-hint {
+    top: 50%;
+    bottom: auto;
+    left: auto;
+    right: 8%;
+    transform: translateY(-50%);
+    background: none;
+    box-shadow: none;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    text-align: right;
+    animation: none;
+  }
+  .cover-hint .hint-en {
+    font-size: 1.1rem;
+    font-weight: 500;
+    letter-spacing: 3px;
+    color: #2c2c2c;
+  }
+  .cover-hint .hint-zh {
+    margin-top: 5px;
+    font-size: 0.88rem;
+    letter-spacing: 2px;
+    color: #555;
+  }
+  .cover-hint .hint-zh::before { content: none; }
+}
+
+/* ========================= 首頁頁尾 sign-off（水彩搬到這） ========================= */
+
+.home-foot { padding-top: 46px; }
+.foot-sign {
+  display: block;
+  width: 100%;
+  max-width: 300px;
+  margin: 0 auto 16px;
+  mix-blend-mode: multiply;
+  opacity: 0.92;
+}
+
+/* ========================= 手機微調：back 好按 + 公仔避開中央 hint ========================= */
+
+@media screen and (max-width: 640px) {
+  .world-back {
+    top: 14px;
+    background: rgba(255, 255, 255, 0.88);
+    border-radius: 22px;
+    padding: 10px 18px;
+    font-size: 0.85rem;
+    box-shadow: 0 4px 16px rgba(40, 40, 60, 0.14);
+    z-index: 6;
+  }
+  .world-work .world-back { left: 16px; }
+  .world-play .world-back { right: 16px; }
+  /* 公仔底圖靠左，右側留給文字 */
+  .cover-figure {
+    height: 52vh;
+    top: 50%;
+    left: -8%;
+    transform: translateY(-50%);
+    opacity: 0.6;
+  }
+}
+
+/* ========================= 手機：撕線轉成橫向（在上下分界） ========================= */
+
+@media screen and (max-width: 640px) {
+  .cover-seam {
+    display: block;
+    top: 50%;
+    bottom: auto;
+    left: 6%;
+    right: 6%;
+    border-left: none;
+    border-top: 1px dashed rgba(60, 60, 70, 0.18);
+    transform: translateY(-50%);
+    z-index: 2;
+  }
+  .cover-seam::before { top: 50%; left: -7px; transform: translateY(-50%); }
+  .cover-seam::after  { top: 50%; left: auto; right: -7px; bottom: auto; transform: translateY(-50%); }
+}
+
+/* ========================= 進世界時隱藏頂列，back 才不會撞到 tzling 字 ========================= */
+
+.home-top {
+  transition: opacity 0.4s ease;
+}
+.open-work .home-top,
+.open-play .home-top {
+  opacity: 0;
+  pointer-events: none;
+}
+
+/* ========================= 手機：名字貼中線靠右，消除上下大片留白 ========================= */
+
+@media screen and (max-width: 640px) {
+  /* 公仔靠左但不切到、縮小讓出右側給文字 */
+  .cover-figure { left: -4%; height: 40vh; }
+
+  /* 兩個名字改成絕對定位、靠右、貼近中央撕線 */
+  .cover-label {
+    position: absolute;
+    right: 7%;
+    left: auto;
+    bottom: auto;
+    text-align: right;
+    align-items: flex-end;
+    padding: 0;
+  }
+  .cover-left  .cover-label { bottom: 12vh; }  /* 專業：上半、離中線遠一點 */
+  .cover-right .cover-label { top: 12vh; }     /* 閒暇：下半、離中線遠一點 */
+  .cl-name { font-size: 1.12rem; letter-spacing: 1px; }
+
+  /* pick a side 在右側中線，加淡底讓字壓在撕線上仍清楚 */
+  .cover-hint {
+    background: rgba(247, 245, 241, 0.85);
+    padding: 7px 14px;
+    border-radius: 14px;
+  }
 }

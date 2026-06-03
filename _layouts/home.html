@@ -1,0 +1,165 @@
+<!-- 首頁專用 layout：全幅 mask 入口。原型階段，不動其他頁。 -->
+<html lang="{% if page.lang == 'en' %}en{% else %}zh-Hant-TW{% endif %}">
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    {% seo %}
+
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Jost:wght@200;300;500&display=swap">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/modern-normalize/0.5.0/modern-normalize.min.css">
+    <link rel="stylesheet" href="/assets/css/style.css">
+
+    {% if jekyll.environment == "production" %}
+    <script defer data-domain="tzling.com" src="https://plausible.io/js/script.js"></script>
+    {% endif %}
+  </head>
+  <body class="home-body">
+
+    {% comment %} ---- persona 分流：work = 專業，其餘(含翻譯/生活/旅行/無分類) = play ---- {% endcomment %}
+    {% assign work_cats = "工作職涯|工作/職涯|產品/學習|Career|Product/Learning|Product-learning|Product/learning|Product / Learning" | split: "|" %}
+    {% assign is_en = false %}{% if page.lang == 'en' %}{% assign is_en = true %}{% endif %}
+
+    <!-- 頂列：站名 + 常駐語言切換 -->
+    <div class="home-top">
+      <a class="home-mark" href="/{% if is_en %}en/{% endif %}">tzling</a>
+      <div class="home-lang">
+        {% if is_en %}
+          <a href="/" class="active">中</a><span>/</span><a href="/en/">EN</a>
+        {% else %}
+          <a href="/" class="active">中</a><span>/</span><a href="/en/">EN</a>
+        {% endif %}
+      </div>
+    </div>
+
+    <section class="mask-stage" id="stage">
+
+      <!-- 兩個世界（藏在面具後面，連結是真的 <a>，爬蟲讀得到） -->
+      <div class="worlds">
+
+        <div class="world world-work" aria-hidden="true">
+          <button class="world-back" data-reset>← back</button>
+          <div class="world-inner">
+            <h1 class="world-h">Chloe Bergqvist</h1>
+            <p class="world-sub">{% if is_en %}Product · Career · AI{% else %}產品 · 職涯 · AI{% endif %}</p>
+            <div class="world-cats">
+              <a href="/{% if is_en %}en/{% endif %}career/">{% if is_en %}Career{% else %}工作職涯{% endif %}</a>
+              <a href="/{% if is_en %}en/{% endif %}product-learning/">{% if is_en %}Product/Learning{% else %}產品/學習{% endif %}</a>
+            </div>
+            <div class="world-posts">
+              {% assign n = 0 %}
+              {% for post in site.posts %}
+                {% if is_en %}{% unless post.lang == 'en' %}{% continue %}{% endunless %}{% else %}{% if post.lang == 'en' %}{% continue %}{% endif %}{% endif %}
+                {% assign cat = post.category | strip %}
+                {% if work_cats contains cat %}
+                  <a class="hpost" href="{{ post.url }}"><span class="hpost-t">{{ post.title }}</span><span class="hpost-d">{{ post.date | date: '%Y.%m' }}</span></a>
+                  {% assign n = n | plus: 1 %}{% if n >= 6 %}{% break %}{% endif %}
+                {% endif %}
+              {% endfor %}
+            </div>
+          </div>
+        </div>
+
+        <div class="world world-play" aria-hidden="true">
+          <button class="world-back" data-reset>back →</button>
+          <div class="world-inner">
+            <h1 class="world-h">tzling ・ 黃子玲</h1>
+            <p class="world-sub">{% if is_en %}Translation · Life · Travel{% else %}翻譯 · 生活 · 旅行{% endif %}</p>
+            <div class="world-cats">
+              <a href="/{% if is_en %}en/{% endif %}translation/">{% if is_en %}Translation{% else %}翻譯{% endif %}</a>
+              <a href="/{% if is_en %}en/{% endif %}life/">{% if is_en %}Life{% else %}生活{% endif %}</a>
+              <a href="/{% if is_en %}en/{% endif %}travel/">{% if is_en %}Travel{% else %}旅行{% endif %}</a>
+            </div>
+            <div class="world-posts">
+              {% assign n = 0 %}
+              {% for post in site.posts %}
+                {% if is_en %}{% unless post.lang == 'en' %}{% continue %}{% endunless %}{% else %}{% if post.lang == 'en' %}{% continue %}{% endif %}{% endif %}
+                {% assign cat = post.category | strip %}
+                {% unless work_cats contains cat %}
+                  <a class="hpost" href="{{ post.url }}"><span class="hpost-t">{{ post.title }}</span><span class="hpost-d">{{ post.date | date: '%Y.%m' }}</span></a>
+                  {% assign n = n | plus: 1 %}{% if n >= 6 %}{% break %}{% endif %}
+                {% endunless %}
+              {% endfor %}
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+      <!-- 面具：公仔吸塑包裝，左右兩半可點 -->
+      <div class="cover" id="cover">
+        <div class="cover-half cover-left" data-open="work" role="button" tabindex="0">
+          <div class="cover-label">
+            <span class="cl-name">Chloe Bergqvist</span>
+            <span class="cl-sub">professional</span>
+          </div>
+        </div>
+        <div class="cover-half cover-right" data-open="play" role="button" tabindex="0">
+          <div class="cover-label">
+            <span class="cl-name">tzling ・ 黃子玲</span>
+            <span class="cl-sub">play</span>
+          </div>
+        </div>
+        <img class="cover-figure" src="/assets/img/Chloe_ai_log.jpg" alt="Chloe — Flow Mode Edition" />
+        <div class="cover-seam"></div>
+        <p class="cover-hint">
+          <span class="hint-en">pick a side</span>
+          <span class="hint-zh">選一邊坐坐</span>
+        </p>
+      </div>
+
+    </section>
+
+    <!-- 讀字區：最新文章（保留瀏覽 / 內部連結） -->
+    <section class="home-journal">
+      <div class="home-recent">
+      <h2 class="hr-title">{% if is_en %}Latest{% else %}最新文章{% endif %}</h2>
+      <div class="hr-list">
+        {% assign n = 0 %}
+        {% for post in site.posts %}
+          {% if is_en %}{% unless post.lang == 'en' %}{% continue %}{% endunless %}{% else %}{% if post.lang == 'en' %}{% continue %}{% endif %}{% endif %}
+          {% assign cat = post.category | strip %}
+          <a class="hr-item" href="{{ post.url }}">
+            <span class="hr-t">{{ post.title }}</span>
+            <span class="hr-meta">{% if cat != "" %}<span class="hr-cat {% if work_cats contains cat %}is-work{% else %}is-play{% endif %}">{{ cat }}</span>{% endif %}<span class="hr-date">{{ post.date | date: '%Y.%m.%d' }}</span></span>
+          </a>
+          {% assign n = n | plus: 1 %}{% if n >= 12 %}{% break %}{% endif %}
+        {% endfor %}
+      </div>
+      <a class="hr-about" href="/about/">About · {% if is_en %}who is Chloe{% else %}關於我{% endif %} →</a>
+      </div>
+    </section>
+
+    <footer class="home-foot">
+      <img class="foot-sign" src="/assets/img/header3.jpg" alt="here, now, always — Tzu Ling" />
+      <div class="copyright">
+        Copyright &copy; {{ site.time | date: '%Y' }} Chloe &amp; Tzuling 🇹🇼
+      </div>
+    </footer>
+
+    <script>
+      (function () {
+        var body = document.body;
+        function open(which) {
+          body.classList.remove('open-work', 'open-play');
+          body.classList.add('open-' + which);
+        }
+        function reset() { body.classList.remove('open-work', 'open-play'); }
+        document.querySelectorAll('[data-open]').forEach(function (el) {
+          el.addEventListener('click', function () { open(el.dataset.open); });
+          el.addEventListener('keydown', function (e) {
+            if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); open(el.dataset.open); }
+          });
+        });
+        document.querySelectorAll('[data-reset]').forEach(function (el) {
+          el.addEventListener('click', reset);
+        });
+      })();
+    </script>
+
+  </body>
+</html>

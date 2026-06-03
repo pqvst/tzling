@@ -1,21 +1,5 @@
 ---
-layout: default
-title: Blog
+layout: home
+title: Tzling
 lang: en
 ---
-
-<div class="posts">
-  {% for post in site.posts %}
-    {% if post.lang == 'en' %}
-    <div class="post">
-      <div class="title">
-        <a href="{{ post.url }}"><h2>{{ post.title }}</h2></a>
-        <div class="details">
-          <span class="date">{{ post.date | date: '%Y-%m-%-d' }}</span>
-          {% for tag in post.tags %}<span class="tag">{{ tag }}</span>{% endfor %}
-        </div>
-      </div>
-    </div>
-    {% endif %}
-  {% endfor %}
-</div>
