@@ -1,4 +1,4 @@
-<!-- 首頁專用 layout：全幅 mask 入口。原型階段，不動其他頁。 -->
+<!-- 首頁專用 layout：翻轉式雙身份入口（中性 → professional / play）。 -->
 <html lang="{% if page.lang == 'en' %}en{% else %}zh-Hant-TW{% endif %}">
   <head>
 
@@ -20,7 +20,7 @@
   </head>
   <body class="home-body">
 
-    {% comment %} ---- persona 分流：work = 專業，其餘(含翻譯/生活/旅行/無分類) = play ---- {% endcomment %}
+    {% comment %} ---- persona 分流：pro = 專業，其餘(含翻譯/生活/旅行/無分類) = play ---- {% endcomment %}
     {% assign work_cats = "工作職涯|工作/職涯|產品/學習|Career|Product/Learning|Product-learning|Product/learning|Product / Learning" | split: "|" %}
     {% assign is_en = false %}{% if page.lang == 'en' %}{% assign is_en = true %}{% endif %}
 
@@ -28,90 +28,101 @@
     <div class="home-top">
       <a class="home-mark" href="/{% if is_en %}en/{% endif %}">tzling</a>
       <div class="home-lang">
-        {% if is_en %}
-          <a href="/" class="active">中</a><span>/</span><a href="/en/">EN</a>
-        {% else %}
-          <a href="/" class="active">中</a><span>/</span><a href="/en/">EN</a>
-        {% endif %}
+        <a href="/" class="{% unless is_en %}active{% endunless %}">中</a><span>/</span><a href="/en/" class="{% if is_en %}active{% endif %}">EN</a>
       </div>
     </div>
 
-    <section class="mask-stage" id="stage">
+    <section class="flip-scene">
+      <div class="flip-stage" id="stage">
 
-      <!-- 兩個世界（藏在面具後面，連結是真的 <a>，爬蟲讀得到） -->
-      <div class="worlds">
+        <!-- ── 中性入口 ── -->
+        <div class="panel panel-neutral is-active" data-panel="neutral">
+          <div class="brand">
+            <span class="brand-title">HERE, NOW, ALWAYS</span>
+            <span class="brand-name">Chloe Bergqvist</span>
+          </div>
+          <div class="doors">
+            <button class="door" data-go="pro">
+              <span class="door-thumb" style="background-image:url('/assets/img/lamp.jpg')"></span>
+              <span class="door-text">
+                <span class="door-label">professional</span>
+                <span class="door-sub">{% if is_en %}Product · Career · AI{% else %}產品 · 職涯 · AI{% endif %}</span>
+              </span>
+            </button>
+            <button class="door" data-go="play">
+              <span class="door-thumb" style="background-image:url('/assets/img/socks.jpg')"></span>
+              <span class="door-text">
+                <span class="door-label">play</span>
+                <span class="door-sub">{% if is_en %}Knitting · Translation · Life · Travel{% else %}打毛線 · 翻譯 · 生活 · 旅行{% endif %}</span>
+              </span>
+            </button>
+          </div>
+          <p class="enter-hint">{% if is_en %}tap a side to flip in ・ 點一邊翻進來{% else %}點一邊翻進來 ・ pick a side{% endif %}</p>
+          <a class="water-credit" href="https://unsplash.com/photos/a-blue-pool-with-clear-blue-water-KDoUhubaX2g" target="_blank" rel="noopener noreferrer">Photo · Unsplash</a>
+        </div>
 
-        <div class="world world-work" aria-hidden="true">
-          <button class="world-back" data-reset>← back</button>
-          <div class="world-inner">
-            <h1 class="world-h">Chloe Bergqvist</h1>
-            <p class="world-sub">{% if is_en %}Product · Career · AI{% else %}產品 · 職涯 · AI{% endif %}</p>
-            <div class="world-cats">
-              <a href="/{% if is_en %}en/{% endif %}career/">{% if is_en %}Career{% else %}工作職涯{% endif %}</a>
-              <a href="/{% if is_en %}en/{% endif %}product-learning/">{% if is_en %}Product/Learning{% else %}產品/學習{% endif %}</a>
-            </div>
-            <div class="world-posts">
-              {% assign n = 0 %}
-              {% for post in site.posts %}
-                {% if is_en %}{% unless post.lang == 'en' %}{% continue %}{% endunless %}{% else %}{% if post.lang == 'en' %}{% continue %}{% endif %}{% endif %}
-                {% assign cat = post.category | strip %}
-                {% if work_cats contains cat %}
-                  <a class="hpost" href="{{ post.url }}"><span class="hpost-t">{{ post.title }}</span><span class="hpost-d">{{ post.date | date: '%Y.%m' }}</span></a>
-                  {% assign n = n | plus: 1 %}{% if n >= 6 %}{% break %}{% endif %}
-                {% endif %}
-              {% endfor %}
+        <!-- ── professional ── -->
+        <div class="panel panel-pro" data-panel="pro">
+          <div class="panel-nav">
+            <button class="pnav-back" data-go="neutral">↩ {% if is_en %}back{% else %}回入口{% endif %}</button>
+            <button class="pnav-flip" data-go="play">{% if is_en %}flip to play{% else %}翻到 play{% endif %} ⤿</button>
+          </div>
+          <div class="panel-body">
+            <div class="panel-media"><img class="media-watercolor" src="/assets/img/header3.jpg" alt="here, now, always — Tzu Ling" /></div>
+            <div class="panel-content">
+              <h1 class="panel-h">professional</h1>
+              <p class="panel-sub">Chloe Bergqvist ・ {% if is_en %}Product · Career · AI{% else %}產品 · 職涯 · AI{% endif %}</p>
+              <div class="panel-cats">
+                <a href="/{% if is_en %}en/{% endif %}career/">{% if is_en %}Career{% else %}工作職涯{% endif %}</a>
+                <a href="/{% if is_en %}en/{% endif %}product-learning/">{% if is_en %}Product/Learning{% else %}產品/學習{% endif %}</a>
+              </div>
+              <div class="panel-posts">
+                {% assign n = 0 %}
+                {% for post in site.posts %}
+                  {% if is_en %}{% unless post.lang == 'en' %}{% continue %}{% endunless %}{% else %}{% if post.lang == 'en' %}{% continue %}{% endif %}{% endif %}
+                  {% assign cat = post.category | strip %}
+                  {% if work_cats contains cat %}
+                    <a class="hpost" href="{{ post.url }}"><span class="hpost-t">{{ post.title }}</span><span class="hpost-d">{{ post.date | date: '%Y.%m' }}</span></a>
+                    {% assign n = n | plus: 1 %}{% if n >= 6 %}{% break %}{% endif %}
+                  {% endif %}
+                {% endfor %}
+              </div>
             </div>
           </div>
         </div>
 
-        <div class="world world-play" aria-hidden="true">
-          <button class="world-back" data-reset>back →</button>
-          <div class="world-inner">
-            <h1 class="world-h">tzling ・ 黃子玲</h1>
-            <p class="world-sub">{% if is_en %}Translation · Life · Travel{% else %}翻譯 · 生活 · 旅行{% endif %}</p>
-            <div class="world-cats">
-              <a href="/{% if is_en %}en/{% endif %}translation/">{% if is_en %}Translation{% else %}翻譯{% endif %}</a>
-              <a href="/{% if is_en %}en/{% endif %}life/">{% if is_en %}Life{% else %}生活{% endif %}</a>
-              <a href="/{% if is_en %}en/{% endif %}travel/">{% if is_en %}Travel{% else %}旅行{% endif %}</a>
-            </div>
-            <div class="world-posts">
-              {% assign n = 0 %}
-              {% for post in site.posts %}
-                {% if is_en %}{% unless post.lang == 'en' %}{% continue %}{% endunless %}{% else %}{% if post.lang == 'en' %}{% continue %}{% endif %}{% endif %}
-                {% assign cat = post.category | strip %}
-                {% unless work_cats contains cat %}
-                  <a class="hpost" href="{{ post.url }}"><span class="hpost-t">{{ post.title }}</span><span class="hpost-d">{{ post.date | date: '%Y.%m' }}</span></a>
-                  {% assign n = n | plus: 1 %}{% if n >= 6 %}{% break %}{% endif %}
-                {% endunless %}
-              {% endfor %}
+        <!-- ── play（公仔專屬這面）── -->
+        <div class="panel panel-play" data-panel="play">
+          <div class="panel-nav">
+            <button class="pnav-back" data-go="neutral">↩ {% if is_en %}back{% else %}回入口{% endif %}</button>
+            <button class="pnav-flip" data-go="pro">{% if is_en %}flip to professional{% else %}翻到 professional{% endif %} ⤿</button>
+          </div>
+          <div class="panel-body">
+            <div class="panel-media"><img class="media-figure" src="/assets/img/Chloe_ai_log.jpg" alt="Chloe — Flow Mode Edition" /></div>
+            <div class="panel-content">
+              <h1 class="panel-h">play</h1>
+              <p class="panel-sub">{% if is_en %}Knitting · Translation · Life · Travel{% else %}打毛線 · 翻譯 · 生活 · 旅行{% endif %}</p>
+              <div class="panel-cats">
+                <a href="/{% if is_en %}en/{% endif %}translation/">{% if is_en %}Translation{% else %}翻譯{% endif %}</a>
+                <a href="/{% if is_en %}en/{% endif %}life/">{% if is_en %}Life{% else %}生活{% endif %}</a>
+                <a href="/{% if is_en %}en/{% endif %}travel/">{% if is_en %}Travel{% else %}旅行{% endif %}</a>
+              </div>
+              <div class="panel-posts">
+                {% assign n = 0 %}
+                {% for post in site.posts %}
+                  {% if is_en %}{% unless post.lang == 'en' %}{% continue %}{% endunless %}{% else %}{% if post.lang == 'en' %}{% continue %}{% endif %}{% endif %}
+                  {% assign cat = post.category | strip %}
+                  {% unless work_cats contains cat %}
+                    <a class="hpost" href="{{ post.url }}"><span class="hpost-t">{{ post.title }}</span><span class="hpost-d">{{ post.date | date: '%Y.%m' }}</span></a>
+                    {% assign n = n | plus: 1 %}{% if n >= 6 %}{% break %}{% endif %}
+                  {% endunless %}
+                {% endfor %}
+              </div>
             </div>
           </div>
         </div>
 
       </div>
-
-      <!-- 面具：公仔吸塑包裝，左右兩半可點 -->
-      <div class="cover" id="cover">
-        <div class="cover-half cover-left" data-open="work" role="button" tabindex="0">
-          <div class="cover-label">
-            <span class="cl-name">Chloe Bergqvist</span>
-            <span class="cl-sub">professional</span>
-          </div>
-        </div>
-        <div class="cover-half cover-right" data-open="play" role="button" tabindex="0">
-          <div class="cover-label">
-            <span class="cl-name">tzling ・ 黃子玲</span>
-            <span class="cl-sub">play</span>
-          </div>
-        </div>
-        <img class="cover-figure" src="/assets/img/Chloe_ai_log.jpg" alt="Chloe — Flow Mode Edition" />
-        <div class="cover-seam"></div>
-        <p class="cover-hint">
-          <span class="hint-en">pick a side</span>
-          <span class="hint-zh">選一邊坐坐</span>
-        </p>
-      </div>
-
     </section>
 
     <!-- 讀字區：最新文章（保留瀏覽 / 內部連結） -->
@@ -135,7 +146,6 @@
     </section>
 
     <footer class="home-foot">
-      <img class="foot-sign" src="/assets/img/header3.jpg" alt="here, now, always — Tzu Ling" />
       <div class="copyright">
         Copyright &copy; {{ site.time | date: '%Y' }} Chloe &amp; Tzuling 🇹🇼
       </div>
@@ -143,20 +153,26 @@
 
     <script>
       (function () {
-        var body = document.body;
-        function open(which) {
-          body.classList.remove('open-work', 'open-play');
-          body.classList.add('open-' + which);
+        var stage = document.getElementById('stage');
+        if (!stage) return;
+        var panels = stage.querySelectorAll('.panel');
+        function show(name) {
+          panels.forEach(function (p) { p.classList.toggle('is-active', p.dataset.panel === name); });
+          document.body.classList.toggle('in-domain', name !== 'neutral');
         }
-        function reset() { body.classList.remove('open-work', 'open-play'); }
-        document.querySelectorAll('[data-open]').forEach(function (el) {
-          el.addEventListener('click', function () { open(el.dataset.open); });
-          el.addEventListener('keydown', function (e) {
-            if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); open(el.dataset.open); }
-          });
-        });
-        document.querySelectorAll('[data-reset]').forEach(function (el) {
-          el.addEventListener('click', reset);
+        var busy = false;
+        function go(name) {
+          if (busy) return;
+          busy = true;
+          stage.classList.add('flipping');           // 旋轉到側面（內容轉到看不見）
+          setTimeout(function () {
+            show(name);                               // 中途換頁
+            stage.classList.remove('flipping');       // 轉回正面
+            busy = false;
+          }, 300);
+        }
+        stage.querySelectorAll('[data-go]').forEach(function (el) {
+          el.addEventListener('click', function () { go(el.dataset.go); });
         });
       })();
     </script>

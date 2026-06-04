@@ -1022,3 +1022,119 @@ nav.categories { background: transparent; margin-bottom: 40px; }
     border-radius: 14px;
   }
 }
+
+/* ========================= 翻轉式雙身份入口（flip）========================= */
+
+.flip-scene { position: relative; min-height: 100vh; perspective: 1600px; }
+.flip-stage { position: relative; min-height: 100vh; transform-style: preserve-3d; transition: transform 0.3s ease; }
+.flip-stage.flipping { transform: rotateY(90deg); }
+
+.panel {
+  position: absolute; inset: 0;
+  display: none; flex-direction: column; align-items: center; justify-content: center;
+  padding: 90px 30px; box-sizing: border-box; text-align: center;
+}
+.panel.is-active { display: flex; }
+
+/* ── 中性入口：water 主視覺 ── */
+.panel-neutral {
+  background:
+    linear-gradient(180deg, rgba(247,245,241,.50), rgba(247,245,241,.28)),
+    url('/assets/img/water.avif') center/cover no-repeat;
+}
+.brand { margin-bottom: 7vh; }
+.brand-title {
+  display: block; font-family: 'Jost', sans-serif; font-weight: 300;
+  letter-spacing: 10px; font-size: 2.1rem; color: #1d3a44;
+  text-shadow: 0 1px 24px rgba(255,255,255,.45);
+}
+.brand-name {
+  display: block; margin-top: 10px; font-family: 'Jost', sans-serif; font-weight: 300;
+  letter-spacing: 5px; font-size: 1rem; color: #2c5560;
+}
+.doors { display: flex; gap: 22px; }
+.door {
+  width: 290px; max-width: 44vw; border: none; cursor: pointer;
+  background: rgba(255,255,255,.80); backdrop-filter: blur(7px);
+  border-radius: 16px; padding: 16px 20px;
+  box-shadow: 0 10px 34px rgba(20,40,50,.16);
+  transition: transform .3s ease, box-shadow .3s ease, background .3s ease;
+  display: flex; flex-direction: row; align-items: center; gap: 16px; text-align: left;
+}
+.door:hover { transform: translateY(-6px); box-shadow: 0 18px 46px rgba(20,40,50,.24); background: rgba(255,255,255,.92); }
+.door-thumb {
+  flex: none; width: 60px; height: 78px; border-radius: 10px;
+  background-size: cover; background-position: center;
+}
+.door-text { display: flex; flex-direction: column; gap: 4px; }
+.door-label {
+  font-family: 'Jost', sans-serif; letter-spacing: 3px; text-transform: uppercase;
+  font-size: 1.02rem; color: #23404a;
+}
+.door-sub { font-family: sans-serif; font-size: 0.78rem; letter-spacing: 1px; color: #5a7680; }
+
+/* play 面毛線球氛圍點綴 */
+.yarn-accent {
+  position: absolute; bottom: 9%; right: 9%; z-index: 1;
+  font-size: 4.5rem; line-height: 1; opacity: 0.5;
+  transform: rotate(-8deg); pointer-events: none;
+}
+
+/* water 圖片來源 credit（小字） */
+.water-credit {
+  position: absolute; bottom: 14px; right: 16px; z-index: 4;
+  font-family: 'Jost', sans-serif; font-size: 0.62rem; letter-spacing: 1px;
+  color: rgba(20,50,60,.55); text-decoration: none;
+}
+.water-credit:hover { color: rgba(20,50,60,.85); }
+.enter-hint {
+  margin-top: 6vh; font-family: 'Jost', sans-serif; letter-spacing: 3px;
+  text-transform: uppercase; font-size: 0.8rem; color: #2c5560;
+}
+
+/* ── professional / play 兩面 ── */
+.panel-pro { background: linear-gradient(160deg, #f3f6f5, #e6eef0); }
+.panel-play { background: linear-gradient(160deg, #f8f0e6, #f2e2d2); }
+.panel-nav {
+  position: absolute; top: 0; left: 0; right: 0;
+  display: flex; justify-content: space-between; padding: 24px 28px;
+}
+.pnav-back, .pnav-flip {
+  font-family: 'Jost', sans-serif; letter-spacing: 2px; font-size: 0.82rem;
+  background: none; border: none; color: #4a4a4a; cursor: pointer; padding: 8px 10px;
+}
+.pnav-back:hover, .pnav-flip:hover { color: #000; }
+.panel-body { width: 100%; max-width: 820px; display: flex; gap: 44px; align-items: center; text-align: left; }
+.panel-media { flex: 0 0 36%; max-width: 300px; }
+.panel-media img { width: 100%; height: auto; border-radius: 14px; box-shadow: 0 14px 40px rgba(40,40,60,.16); display: block; }
+.panel-media img.media-watercolor { box-shadow: none; border-radius: 0; mix-blend-mode: multiply; }
+.panel-content { flex: 1 1 auto; min-width: 0; }
+.panel-h {
+  font-family: 'Jost', sans-serif; font-weight: 500; letter-spacing: 7px;
+  text-transform: uppercase; font-size: 1.7rem; margin: 6px 0 4px; color: #2c2c2c;
+}
+.panel-sub { color: #6b6b6b; letter-spacing: 1px; margin: 0 0 22px; font-size: 0.95rem; }
+.panel-cats { display: flex; gap: 12px; justify-content: flex-start; flex-wrap: wrap; margin-bottom: 22px; }
+.panel-cats a {
+  font-family: 'Jost', sans-serif; letter-spacing: 2px; font-size: 0.78rem;
+  text-decoration: none; color: #3a3a3a; border: 1px solid rgba(0,0,0,.18);
+  border-radius: 20px; padding: 6px 15px;
+}
+.panel-cats a:hover { background: rgba(0,0,0,.05); }
+.panel-posts { display: flex; flex-direction: column; text-align: left; }
+
+/* 進領域時隱藏頂列（back 不撞到 tzling） */
+.home-top { transition: opacity .35s ease; }
+.in-domain .home-top { opacity: 0; pointer-events: none; }
+
+@media screen and (max-width: 640px) {
+  /* 內容靠上 + 可捲動，公仔/圖不會蓋到上方按鈕 */
+  .panel { padding: 76px 22px 40px; justify-content: flex-start; overflow-y: auto; }
+  .brand-title { font-size: 1.45rem; letter-spacing: 6px; }
+  .doors { flex-direction: column; gap: 14px; width: 100%; align-items: center; }
+  .door { width: 86vw; max-width: 340px; padding: 20px 24px; }
+  .panel-body { flex-direction: column; gap: 18px; align-items: center; text-align: center; max-width: 360px; }
+  .panel-media { flex: none; width: 58%; max-width: 200px; }
+  .panel-cats { justify-content: center; }
+  .panel-h { font-size: 1.4rem; letter-spacing: 5px; }
+}
